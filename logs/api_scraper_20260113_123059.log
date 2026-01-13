@@ -1,0 +1,31 @@
+2026-01-13 12:30:59,612 - INFO - Starting API job scraper
+2026-01-13 12:30:59,612 - INFO - Loaded 853 master facilities
+2026-01-13 12:30:59,612 - INFO - Fetching jobs from API...
+2026-01-13 12:31:04,041 - INFO - Total jobs found: 500
+2026-01-13 12:31:04,088 - INFO - New job: Corrections Oversight Worker - Metro - GA DOC - 628626 [UNVERIFIED: Metro - GA DOC]
+2026-01-13 12:31:04,132 - INFO - New job: Food Service Worker - Fayette County Community Corrections - 628768 [VERIFIED: Lawton Community Corrections Center]
+2026-01-13 12:31:04,165 - INFO - New job: Corrections Oversight Worker - Columbia - CI/Annex - (201/251) - 628787 [UNVERIFIED: Columbia - CI/Annex]
+2026-01-13 12:31:04,192 - INFO - New job: Cook - Ulster County Jail - 628843 [UNVERIFIED: Ulster County Jail]
+2026-01-13 12:31:04,227 - INFO - New job: Corrections Oversight Worker - Vanderburgh County Sheriff - 628858 [UNVERIFIED: Vanderburgh County Sheriff]
+2026-01-13 12:31:04,262 - INFO - New job: Corrections Inmate Worker - Essex County Correctional (MA) - 628864 [VERIFIED: Bledsoe County Correctional Complex]
+2026-01-13 12:31:04,289 - INFO - New job: Kitchen Supervisor - Madison - CI/WC - (216/289) - 628902 [UNVERIFIED: Madison - CI/WC]
+2026-01-13 12:31:04,348 - INFO - New job: Food Service Worker - Lancaster County Detention Facility (NE) - 628910 [UNVERIFIED: Lancaster County Detention Facility (NE)]
+2026-01-13 12:31:14,525 - INFO - Added 8 new jobs
+2026-01-13 12:31:14,525 - INFO - Fetching descriptions for 8 new jobs...
+2026-01-13 12:31:15,642 - INFO - Updated description for 628626
+2026-01-13 12:31:17,321 - INFO - Updated description for 628768
+2026-01-13 12:31:18,995 - INFO - Updated description for 628787
+2026-01-13 12:31:20,638 - INFO - Updated description for 628843
+2026-01-13 12:31:22,311 - INFO - Updated description for 628858
+2026-01-13 12:31:23,908 - INFO - Updated description for 628864
+2026-01-13 12:31:25,588 - INFO - Updated description for 628902
+2026-01-13 12:31:27,309 - INFO - Updated description for 628910
+2026-01-13 12:31:27,815 - INFO - 
+=== SUMMARY ===
+2026-01-13 12:31:27,815 - INFO - Total jobs in database: 1112
+2026-01-13 12:31:27,815 - INFO - New jobs added: 8
+2026-01-13 12:31:27,815 - INFO - Descriptions updated: 8
+2026-01-13 12:31:27,815 - INFO - Verified facilities: 114
+2026-01-13 12:31:27,815 - INFO - Unverified facilities: 298
+2026-01-13 12:31:27,815 - INFO - Log saved to: logs/api_scraper_20260113_123059.log
+2026-01-13 12:31:27,906 - INFO - Exported 1112 jobs to jobs.csv
