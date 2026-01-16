@@ -1,0 +1,31 @@
+2026-01-16 12:29:20,115 - INFO - Starting API job scraper
+2026-01-16 12:29:20,116 - INFO - Loaded 853 master facilities
+2026-01-16 12:29:20,116 - INFO - Fetching jobs from API...
+2026-01-16 12:29:21,543 - INFO - Total jobs found: 500
+2026-01-16 12:29:21,592 - INFO - New job: Commissary Worker - Hillsborough County Commissary - 627401 [UNVERIFIED: Hillsborough County Commissary]
+2026-01-16 12:29:21,622 - INFO - New job: Corrections Oversight Worker - Blair County Prison - 629757 [UNVERIFIED: Blair County Prison]
+2026-01-16 12:29:21,623 - INFO - New job: Food Service Manager - 629920 [No facility found]
+2026-01-16 12:29:21,647 - INFO - New job: Food Service Worker - WORTH Center - 625526 [UNVERIFIED: WORTH Center]
+2026-01-16 12:29:21,683 - INFO - New job: Cook Supervisor - Santa Rosa - CI/Annex/WC - (119/135/127) - 629954 [UNVERIFIED: Santa Rosa - CI/Annex/WC]
+2026-01-16 12:29:21,720 - INFO - New job: Food Service Worker - Santa Rosa - CI/Annex/WC - (119/135/127) - 629956 [UNVERIFIED: Santa Rosa - CI/Annex/WC]
+2026-01-16 12:29:21,740 - INFO - New job: Corrections Oversight Worker - Kent County - 629981 [UNVERIFIED: Kent County]
+2026-01-16 12:29:21,740 - INFO - New job: Food Service Worker - 629989 [No facility found]
+2026-01-16 12:29:31,288 - INFO - Added 8 new jobs
+2026-01-16 12:29:31,288 - INFO - Fetching descriptions for 8 new jobs...
+2026-01-16 12:29:32,445 - INFO - Updated description for 627401
+2026-01-16 12:29:34,224 - INFO - Updated description for 629757
+2026-01-16 12:29:35,746 - INFO - Updated description for 629920
+2026-01-16 12:29:37,347 - INFO - Updated description for 625526
+2026-01-16 12:29:38,913 - INFO - Updated description for 629954
+2026-01-16 12:29:40,476 - INFO - Updated description for 629956
+2026-01-16 12:29:42,111 - INFO - Updated description for 629981
+2026-01-16 12:29:43,827 - INFO - Updated description for 629989
+2026-01-16 12:29:44,333 - INFO - 
+=== SUMMARY ===
+2026-01-16 12:29:44,333 - INFO - Total jobs in database: 1137
+2026-01-16 12:29:44,333 - INFO - New jobs added: 8
+2026-01-16 12:29:44,333 - INFO - Descriptions updated: 8
+2026-01-16 12:29:44,333 - INFO - Verified facilities: 114
+2026-01-16 12:29:44,333 - INFO - Unverified facilities: 303
+2026-01-16 12:29:44,333 - INFO - Log saved to: logs/api_scraper_20260116_122920.log
+2026-01-16 12:29:44,426 - INFO - Exported 1137 jobs to jobs.csv
