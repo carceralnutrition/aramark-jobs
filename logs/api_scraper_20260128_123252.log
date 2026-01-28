@@ -1,0 +1,41 @@
+2026-01-28 12:32:52,303 - INFO - Starting API job scraper
+2026-01-28 12:32:52,303 - INFO - Loaded 853 master facilities
+2026-01-28 12:32:52,303 - INFO - Fetching jobs from API...
+2026-01-28 12:32:54,527 - INFO - Total jobs found: 500
+2026-01-28 12:32:54,528 - INFO - New job: Food Service Manager - 632048 [No facility found]
+2026-01-28 12:32:54,528 - INFO - New job: Warehouse Worker III - 632091 [No facility found]
+2026-01-28 12:32:54,528 - INFO - New job: Warehouse Worker II - 632092 [No facility found]
+2026-01-28 12:32:54,528 - INFO - New job: Warehouse Worker I - 632093 [No facility found]
+2026-01-28 12:32:54,568 - INFO - New job: Corrections Oversight Worker - Kenosha County Jail - 632189 [UNVERIFIED: Kenosha County Jail]
+2026-01-28 12:32:54,595 - INFO - New job: Food Service Supervisor - Pasco County Jail - 632194 [UNVERIFIED: Pasco County Jail]
+2026-01-28 12:32:54,596 - INFO - New job: Food Service Worker - 632201 [No facility found]
+2026-01-28 12:32:54,596 - INFO - New job: Food Service Manager - 632234 [No facility found]
+2026-01-28 12:32:54,620 - INFO - New job: Corrections Oversight Worker - Oriana House - 632256 [UNVERIFIED: Oriana House]
+2026-01-28 12:32:54,620 - INFO - New job: Food Service Manager - 632266 [No facility found]
+2026-01-28 12:32:54,655 - INFO - New job: Retail Operator Lead - Pasco County Jail - 632293 [UNVERIFIED: Pasco County Jail]
+2026-01-28 12:32:54,693 - INFO - New job: Corrections Oversight Worker - Branchville Correctional Facility - 632298 [VERIFIED: Branchville Correctional Facility]
+2026-01-28 12:32:54,694 - INFO - New job: Kitchen Supervisor - 632348 [No facility found]
+2026-01-28 12:33:03,861 - INFO - Added 13 new jobs
+2026-01-28 12:33:03,861 - INFO - Fetching descriptions for 13 new jobs...
+2026-01-28 12:33:04,881 - INFO - Updated description for 632048
+2026-01-28 12:33:06,556 - INFO - Updated description for 632091
+2026-01-28 12:33:08,091 - INFO - Updated description for 632092
+2026-01-28 12:33:09,681 - INFO - Updated description for 632093
+2026-01-28 12:33:11,276 - INFO - Updated description for 632189
+2026-01-28 12:33:12,923 - INFO - Updated description for 632194
+2026-01-28 12:33:14,530 - INFO - Updated description for 632201
+2026-01-28 12:33:16,197 - INFO - Updated description for 632234
+2026-01-28 12:33:17,785 - INFO - Updated description for 632256
+2026-01-28 12:33:19,381 - INFO - Updated description for 632266
+2026-01-28 12:33:21,012 - INFO - Updated description for 632293
+2026-01-28 12:33:22,663 - INFO - Updated description for 632298
+2026-01-28 12:33:24,206 - INFO - Updated description for 632348
+2026-01-28 12:33:24,714 - INFO - 
+=== SUMMARY ===
+2026-01-28 12:33:24,714 - INFO - Total jobs in database: 1218
+2026-01-28 12:33:24,714 - INFO - New jobs added: 13
+2026-01-28 12:33:24,714 - INFO - Descriptions updated: 13
+2026-01-28 12:33:24,715 - INFO - Verified facilities: 118
+2026-01-28 12:33:24,715 - INFO - Unverified facilities: 310
+2026-01-28 12:33:24,715 - INFO - Log saved to: logs/api_scraper_20260128_123252.log
+2026-01-28 12:33:24,816 - INFO - Exported 1218 jobs to jobs.csv
