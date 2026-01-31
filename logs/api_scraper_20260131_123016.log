@@ -1,0 +1,43 @@
+2026-01-31 12:30:16,808 - INFO - Starting API job scraper
+2026-01-31 12:30:16,808 - INFO - Loaded 853 master facilities
+2026-01-31 12:30:16,808 - INFO - Fetching jobs from API...
+2026-01-31 12:30:27,995 - INFO - Total jobs found: 500
+2026-01-31 12:30:27,997 - INFO - New job: Kitchen Supervisor - 629001 [No facility found]
+2026-01-31 12:30:27,997 - INFO - New job: Kitchen Supervisor - 629003 [No facility found]
+2026-01-31 12:30:28,033 - INFO - New job: Corrections Oversight Worker - ASPC - Winslow - 632971 [UNVERIFIED: ASPC - Winslow]
+2026-01-31 12:30:28,033 - INFO - New job: Kitchen Supervisor - 633061 [No facility found]
+2026-01-31 12:30:28,072 - INFO - New job: Food Service Worker - Southeastern Correctional Facility - 633065 [VERIFIED: Eastern Correctional Facility]
+2026-01-31 12:30:28,072 - INFO - New job: Food Service Manager - 633066 [No facility found]
+2026-01-31 12:30:28,111 - INFO - New job: Cook - Forrest County Jail Food MS - 633100 [UNVERIFIED: Forrest County Jail Food MS]
+2026-01-31 12:30:28,111 - INFO - New job: Commissary Manager - 633104 [No facility found]
+2026-01-31 12:30:28,159 - INFO - New job: Kitchen Supervisor - Sago Palm - Sago Palm - Re-Entry - (464) - 633125 [UNVERIFIED: Sago Palm - Sago Palm - Re-Entry]
+2026-01-31 12:30:28,212 - INFO - New job: Cook - Atlantic County Justice Facility - 632577 [UNVERIFIED: Atlantic County Justice Facility]
+2026-01-31 12:30:28,212 - INFO - New job: Kitchen Supervisor - 633152 [No facility found]
+2026-01-31 12:30:28,212 - INFO - New job: Kitchen Supervisor - 633153 [No facility found]
+2026-01-31 12:30:28,212 - INFO - New job: Warehouse Worker I - 633156 [No facility found]
+2026-01-31 12:30:28,212 - INFO - New job: Food Service Director - 633161 [No facility found]
+2026-01-31 12:30:37,313 - INFO - Added 14 new jobs
+2026-01-31 12:30:37,313 - INFO - Fetching descriptions for 14 new jobs...
+2026-01-31 12:30:38,318 - INFO - Updated description for 629001
+2026-01-31 12:30:39,933 - INFO - Updated description for 629003
+2026-01-31 12:30:41,588 - INFO - Updated description for 632971
+2026-01-31 12:30:43,167 - INFO - Updated description for 633061
+2026-01-31 12:30:44,684 - INFO - Updated description for 633065
+2026-01-31 12:30:46,256 - INFO - Updated description for 633066
+2026-01-31 12:30:47,805 - INFO - Updated description for 633100
+2026-01-31 12:30:49,437 - INFO - Updated description for 633104
+2026-01-31 12:30:51,003 - INFO - Updated description for 633125
+2026-01-31 12:30:52,681 - INFO - Updated description for 632577
+2026-01-31 12:30:54,162 - INFO - Updated description for 633152
+2026-01-31 12:30:55,688 - INFO - Updated description for 633153
+2026-01-31 12:30:57,238 - INFO - Updated description for 633156
+2026-01-31 12:30:58,893 - INFO - Updated description for 633161
+2026-01-31 12:30:59,400 - INFO - 
+=== SUMMARY ===
+2026-01-31 12:30:59,400 - INFO - Total jobs in database: 1254
+2026-01-31 12:30:59,400 - INFO - New jobs added: 14
+2026-01-31 12:30:59,400 - INFO - Descriptions updated: 14
+2026-01-31 12:30:59,400 - INFO - Verified facilities: 118
+2026-01-31 12:30:59,400 - INFO - Unverified facilities: 313
+2026-01-31 12:30:59,400 - INFO - Log saved to: logs/api_scraper_20260131_123016.log
+2026-01-31 12:30:59,503 - INFO - Exported 1254 jobs to jobs.csv
