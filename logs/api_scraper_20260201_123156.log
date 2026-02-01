@@ -1,0 +1,19 @@
+2026-02-01 12:31:56,400 - INFO - Starting API job scraper
+2026-02-01 12:31:56,401 - INFO - Loaded 853 master facilities
+2026-02-01 12:31:56,401 - INFO - Fetching jobs from API...
+2026-02-01 12:31:58,774 - INFO - Total jobs found: 500
+2026-02-01 12:31:58,813 - INFO - New job: Corrections Oversight Worker - Boulder County Jail - 633164 [UNVERIFIED: Boulder County Jail]
+2026-02-01 12:31:58,814 - INFO - New job: Warehouse Worker II - 633253 [No facility found]
+2026-02-01 12:32:08,319 - INFO - Added 2 new jobs
+2026-02-01 12:32:08,319 - INFO - Fetching descriptions for 2 new jobs...
+2026-02-01 12:32:09,579 - INFO - Updated description for 633164
+2026-02-01 12:32:11,304 - INFO - Updated description for 633253
+2026-02-01 12:32:11,810 - INFO - 
+=== SUMMARY ===
+2026-02-01 12:32:11,810 - INFO - Total jobs in database: 1256
+2026-02-01 12:32:11,810 - INFO - New jobs added: 2
+2026-02-01 12:32:11,811 - INFO - Descriptions updated: 2
+2026-02-01 12:32:11,811 - INFO - Verified facilities: 118
+2026-02-01 12:32:11,811 - INFO - Unverified facilities: 313
+2026-02-01 12:32:11,811 - INFO - Log saved to: logs/api_scraper_20260201_123156.log
+2026-02-01 12:32:11,914 - INFO - Exported 1256 jobs to jobs.csv
