@@ -1,0 +1,25 @@
+2026-02-06 12:40:33,167 - INFO - Starting API job scraper
+2026-02-06 12:40:33,167 - INFO - Loaded 853 master facilities
+2026-02-06 12:40:33,168 - INFO - Fetching jobs from API...
+2026-02-06 12:40:34,421 - INFO - Total jobs found: 500
+2026-02-06 12:40:34,507 - INFO - New job: Corrections Oversight Worker - Hillsborough County Jail Food - 633399 [UNVERIFIED: Hillsborough County Jail Food]
+2026-02-06 12:40:34,533 - INFO - New job: Corrections Oversight Worker - Tom Green County - 634291 [UNVERIFIED: Tom Green County]
+2026-02-06 12:40:34,559 - INFO - New job: Food Service Worker Lead - Charlotte - CI - (510) - 634299 [UNVERIFIED: Charlotte - CI]
+2026-02-06 12:40:34,592 - INFO - New job: Cook - Orange County (NY) Jail - 634339 [UNVERIFIED: Orange County (NY) Jail]
+2026-02-06 12:40:34,593 - INFO - New job: Food Service Manager - 634491 [No facility found]
+2026-02-06 12:40:43,986 - INFO - Added 5 new jobs
+2026-02-06 12:40:43,986 - INFO - Fetching descriptions for 5 new jobs...
+2026-02-06 12:40:45,044 - INFO - Updated description for 633399
+2026-02-06 12:40:46,637 - INFO - Updated description for 634291
+2026-02-06 12:40:48,163 - INFO - Updated description for 634299
+2026-02-06 12:40:49,856 - INFO - Updated description for 634339
+2026-02-06 12:40:51,590 - INFO - Updated description for 634491
+2026-02-06 12:40:52,096 - INFO - 
+=== SUMMARY ===
+2026-02-06 12:40:52,097 - INFO - Total jobs in database: 1306
+2026-02-06 12:40:52,097 - INFO - New jobs added: 5
+2026-02-06 12:40:52,097 - INFO - Descriptions updated: 5
+2026-02-06 12:40:52,097 - INFO - Verified facilities: 121
+2026-02-06 12:40:52,097 - INFO - Unverified facilities: 318
+2026-02-06 12:40:52,097 - INFO - Log saved to: logs/api_scraper_20260206_124033.log
+2026-02-06 12:40:52,205 - INFO - Exported 1306 jobs to jobs.csv
