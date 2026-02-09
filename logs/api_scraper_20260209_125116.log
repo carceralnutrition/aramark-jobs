@@ -1,0 +1,17 @@
+2026-02-09 12:51:16,213 - INFO - Starting API job scraper
+2026-02-09 12:51:16,213 - INFO - Loaded 853 master facilities
+2026-02-09 12:51:16,213 - INFO - Fetching jobs from API...
+2026-02-09 12:51:17,499 - INFO - Total jobs found: 500
+2026-02-09 12:51:17,537 - INFO - New job: Corrections Oversight Worker - VOA Dayton - 634811 [UNVERIFIED: VOA Dayton]
+2026-02-09 12:51:26,612 - INFO - Added 1 new jobs
+2026-02-09 12:51:26,612 - INFO - Fetching descriptions for 1 new jobs...
+2026-02-09 12:51:27,676 - INFO - Updated description for 634811
+2026-02-09 12:51:28,182 - INFO - 
+=== SUMMARY ===
+2026-02-09 12:51:28,182 - INFO - Total jobs in database: 1330
+2026-02-09 12:51:28,182 - INFO - New jobs added: 1
+2026-02-09 12:51:28,182 - INFO - Descriptions updated: 1
+2026-02-09 12:51:28,182 - INFO - Verified facilities: 121
+2026-02-09 12:51:28,182 - INFO - Unverified facilities: 323
+2026-02-09 12:51:28,182 - INFO - Log saved to: logs/api_scraper_20260209_125116.log
+2026-02-09 12:51:28,284 - INFO - Exported 1330 jobs to jobs.csv
