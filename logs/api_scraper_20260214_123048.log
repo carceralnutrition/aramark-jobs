@@ -1,0 +1,45 @@
+2026-02-14 12:30:48,229 - INFO - Starting API job scraper
+2026-02-14 12:30:48,230 - INFO - Loaded 853 master facilities
+2026-02-14 12:30:48,230 - INFO - Fetching jobs from API...
+2026-02-14 12:30:51,026 - INFO - Total jobs found: 500
+2026-02-14 12:30:51,099 - INFO - New job: Corrections Oversight Worker - San Francisco City Jail - 634768 [UNVERIFIED: San Francisco City Jail]
+2026-02-14 12:30:51,138 - INFO - New job: Food Service Supervisor - South Dakota Women's Prison - 635747 [VERIFIED: South Dakota Women's Prison]
+2026-02-14 12:30:51,199 - INFO - New job: Food Service Worker - Boulder County Alternative Sentencing Facility - 636019 [UNVERIFIED: Boulder County Alternative Sentencing Facility]
+2026-02-14 12:30:51,233 - INFO - New job: Corrections Oversight Worker - Winnebago County Jail WI - 636041 [UNVERIFIED: Winnebago County Jail WI]
+2026-02-14 12:30:51,275 - INFO - New job: Corrections Oversight Worker - Community Transitional Services, KY - 636136 [UNVERIFIED: Community Transitional Services, KY]
+2026-02-14 12:30:51,276 - INFO - New job: Food Service Manager - 636219 [No facility found]
+2026-02-14 12:30:51,310 - INFO - New job: Retail Sales Worker Lead - London Correctional Institution - 636232 [VERIFIED: London Correctional Institution]
+2026-02-14 12:30:51,349 - INFO - New job: Corrections Oversight Worker - Ohio Reformatory for Women - 636234 [VERIFIED: Ohio Reformatory for Women]
+2026-02-14 12:30:51,349 - INFO - New job: Kitchen Supervisor - 636275 [No facility found]
+2026-02-14 12:30:51,376 - INFO - New job: Corrections Oversight Worker - R.M.C. - Main/WC - (209/221) - 636288 [UNVERIFIED: R.M.C. - Main/WC]
+2026-02-14 12:30:51,412 - INFO - New job: Corrections Oversight Worker - CFRC - Main/East/South - (320/321/323) - 636302 [UNVERIFIED: CFRC - Main/East/South]
+2026-02-14 12:30:51,450 - INFO - New job: Corrections Oversight Worker - Santa Rosa - CI/Annex/WC - (119/135/127) - 636305 [UNVERIFIED: Santa Rosa - CI/Annex/WC]
+2026-02-14 12:30:51,486 - INFO - New job: Food Service Worker - Franklin Medical Center - 636328 [VERIFIED: Franklin Medical Center]
+2026-02-14 12:30:51,486 - INFO - New job: Food Service Manager - 636341 [No facility found]
+2026-02-14 12:30:51,515 - INFO - New job: Food Service Worker Lead - St John County Jail - 636369 [UNVERIFIED: St John County Jail]
+2026-02-14 12:31:01,675 - INFO - Added 15 new jobs
+2026-02-14 12:31:01,676 - INFO - Fetching descriptions for 15 new jobs...
+2026-02-14 12:31:02,798 - INFO - Updated description for 634768
+2026-02-14 12:31:04,450 - INFO - Updated description for 635747
+2026-02-14 12:31:06,017 - INFO - Updated description for 636019
+2026-02-14 12:31:07,687 - INFO - Updated description for 636041
+2026-02-14 12:31:09,343 - INFO - Updated description for 636136
+2026-02-14 12:31:11,188 - INFO - Updated description for 636219
+2026-02-14 12:31:12,770 - INFO - Updated description for 636232
+2026-02-14 12:31:14,393 - INFO - Updated description for 636234
+2026-02-14 12:31:16,048 - INFO - Updated description for 636275
+2026-02-14 12:31:17,716 - INFO - Updated description for 636288
+2026-02-14 12:31:19,422 - INFO - Updated description for 636302
+2026-02-14 12:31:21,072 - INFO - Updated description for 636305
+2026-02-14 12:31:22,673 - INFO - Updated description for 636328
+2026-02-14 12:31:24,251 - INFO - Updated description for 636341
+2026-02-14 12:31:25,928 - INFO - Updated description for 636369
+2026-02-14 12:31:26,435 - INFO - 
+=== SUMMARY ===
+2026-02-14 12:31:26,435 - INFO - Total jobs in database: 1386
+2026-02-14 12:31:26,435 - INFO - New jobs added: 15
+2026-02-14 12:31:26,435 - INFO - Descriptions updated: 15
+2026-02-14 12:31:26,435 - INFO - Verified facilities: 123
+2026-02-14 12:31:26,435 - INFO - Unverified facilities: 326
+2026-02-14 12:31:26,436 - INFO - Log saved to: logs/api_scraper_20260214_123048.log
+2026-02-14 12:31:26,553 - INFO - Exported 1386 jobs to jobs.csv
