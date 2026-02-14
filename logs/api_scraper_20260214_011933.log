@@ -1,0 +1,89 @@
+2026-02-14 01:19:33,143 - INFO - Starting API job scraper
+2026-02-14 01:19:33,143 - INFO - Loaded 853 master facilities
+2026-02-14 01:19:33,144 - INFO - Fetching jobs from API...
+2026-02-14 01:19:37,671 - INFO - Total jobs found: 500
+2026-02-14 01:19:37,739 - INFO - New job: Retail Sales Worker Lead - Warren Correctional Institution (OH DRC) - 635752 [VERIFIED: Warren Correctional Institution]
+2026-02-14 01:19:37,783 - INFO - New job: Commissary Worker - South Correctional Entity - Commissary - 635814 [UNVERIFIED: South Correctional Entity - Commissary]
+2026-02-14 01:19:37,813 - INFO - New job: Corrections Oversight Worker - Forsyth County Jail - 635912 [UNVERIFIED: Forsyth County Jail]
+2026-02-14 01:19:37,864 - INFO - New job: Cook - Baltimore County Department of Corrections - 635948 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-02-14 01:19:37,866 - INFO - New job: Food Service Manager - 635970 [No facility found]
+2026-02-14 01:19:37,866 - INFO - New job: Food Service Worker - 635974 [No facility found]
+2026-02-14 01:19:37,866 - INFO - New job: Food Service Manager - 635978 [No facility found]
+2026-02-14 01:19:37,898 - INFO - New job: Food Service Worker - Fort Bend County Jail - 636002 [UNVERIFIED: Fort Bend County Jail]
+2026-02-14 01:19:37,899 - INFO - New job: Food Service Supervisor - 636015 [No facility found]
+2026-02-14 01:19:37,928 - INFO - New job: Corrections Oversight Worker - Iredell County Jail - 635584 [UNVERIFIED: Iredell County Jail]
+2026-02-14 01:19:37,968 - INFO - New job: Corrections Oversight Worker - Forrest County Jail Food MS - 635218 [UNVERIFIED: Forrest County Jail Food MS]
+2026-02-14 01:19:38,007 - INFO - New job: Food Service Worker - Sojourner Recovery Center - 635714 [VERIFIED: Southern Maine Reentry Center]
+2026-02-14 01:19:38,046 - INFO - New job: Corrections Oversight Worker - New Castle Correctional Facility - 635289 [VERIFIED: New Castle Correctional Facility]
+2026-02-14 01:19:38,073 - INFO - New job: Corrections Oversight Worker - ASPC - Winslow - 635316 [UNVERIFIED: ASPC - Winslow]
+2026-02-14 01:19:38,073 - INFO - New job: Food Service Director - 635773 [No facility found]
+2026-02-14 01:19:38,109 - INFO - New job: Corrections Oversight Worker - Hamilton County Jail (TN) - 635329 [UNVERIFIED: Hamilton County Jail (TN)]
+2026-02-14 01:19:38,136 - INFO - New job: Food Service Supervisor - Winfield Correctional - 635335 [VERIFIED: Winfield Correctional Facility]
+2026-02-14 01:19:38,136 - INFO - New job: Food Service Director - 634807 [No facility found]
+2026-02-14 01:19:38,186 - INFO - New job: General Utility Worker - Baltimore County Department of Corrections - 635359 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-02-14 01:19:38,213 - INFO - New job: Food Service Supervisor - Shelby County TN - 635366 [UNVERIFIED: Shelby County TN]
+2026-02-14 01:19:38,213 - INFO - New job: Food Service Director - 635367 [No facility found]
+2026-02-14 01:19:38,250 - INFO - New job: Food Service Worker Lead - Lebanon Correctional Institution - 635370 [VERIFIED: Lebanon Correctional Institution]
+2026-02-14 01:19:38,285 - INFO - New job: Food Service Worker - Albemarle District Jail - 631058 [UNVERIFIED: Albemarle District Jail]
+2026-02-14 01:19:38,311 - INFO - New job: Driver I - Shelby County TN - 635375 [UNVERIFIED: Shelby County TN]
+2026-02-14 01:19:38,350 - INFO - New job: Food Service Worker - Albemarle District Jail - 631061 [UNVERIFIED: Albemarle District Jail]
+2026-02-14 01:19:38,385 - INFO - New job: Cook - Albemarle District Jail - 631062 [UNVERIFIED: Albemarle District Jail]
+2026-02-14 01:19:38,421 - INFO - New job: Lead Cook - Albemarle District Jail - 631063 [UNVERIFIED: Albemarle District Jail]
+2026-02-14 01:19:38,456 - INFO - New job: Corrections Oversight Worker - Albemarle District Jail - 631064 [UNVERIFIED: Albemarle District Jail]
+2026-02-14 01:19:38,505 - INFO - New job: Food Service Worker Lead - Wyandotte County Detention Center - 632325 [VERIFIED: Detroit Detention Center]
+2026-02-14 01:19:38,534 - INFO - New job: Cook - Yellow Medicine - 635400 [UNVERIFIED: Yellow Medicine]
+2026-02-14 01:19:38,585 - INFO - New job: Food Service Worker - West Tennessee State Penitentiary - 635432 [VERIFIED: West Tennessee State Penitentiary]
+2026-02-14 01:19:38,585 - INFO - New job: Food Service Manager - 634989 [No facility found]
+2026-02-14 01:19:38,624 - INFO - New job: Food Service Worker Lead - Kendall County Sheriff's Office - 635454 [UNVERIFIED: Kendall County Sheriff's Office]
+2026-02-14 01:19:38,657 - INFO - New job: Commissary Worker - Kane County Commissary - 635479 [UNVERIFIED: Kane County Commissary]
+2026-02-14 01:19:38,689 - INFO - New job: Custodial Services Worker - Dona Ana (Facilities) - 635480 [UNVERIFIED: Dona Ana (Facilities)]
+2026-02-14 01:19:38,730 - INFO - New job: Warehouse Worker - Shelby County Fiduciary Services - 635093 [UNVERIFIED: Shelby County Fiduciary Services]
+2026-02-14 01:19:38,730 - INFO - New job: Accounts Payable Manager - 635549 [No facility found]
+2026-02-14 01:19:47,975 - INFO - Added 37 new jobs
+2026-02-14 01:19:47,975 - INFO - Fetching descriptions for 37 new jobs...
+2026-02-14 01:19:49,186 - INFO - Updated description for 635752
+2026-02-14 01:19:50,732 - INFO - Updated description for 635814
+2026-02-14 01:19:52,385 - INFO - Updated description for 635912
+2026-02-14 01:19:53,903 - INFO - Updated description for 635948
+2026-02-14 01:19:55,468 - INFO - Updated description for 635970
+2026-02-14 01:19:56,982 - INFO - Updated description for 635974
+2026-02-14 01:19:58,582 - INFO - Updated description for 635978
+2026-02-14 01:20:00,131 - INFO - Updated description for 636002
+2026-02-14 01:20:01,698 - INFO - Updated description for 636015
+2026-02-14 01:20:03,266 - INFO - Updated description for 635584
+2026-02-14 01:20:04,868 - INFO - Updated description for 635218
+2026-02-14 01:20:06,404 - INFO - Updated description for 635714
+2026-02-14 01:20:07,980 - INFO - Updated description for 635289
+2026-02-14 01:20:09,514 - INFO - Updated description for 635316
+2026-02-14 01:20:11,163 - INFO - Updated description for 635773
+2026-02-14 01:20:12,736 - INFO - Updated description for 635329
+2026-02-14 01:20:15,230 - INFO - Updated description for 635335
+2026-02-14 01:20:16,801 - INFO - Updated description for 634807
+2026-02-14 01:20:18,361 - INFO - Updated description for 635359
+2026-02-14 01:20:20,287 - INFO - Updated description for 635366
+2026-02-14 01:20:21,785 - INFO - Updated description for 635367
+2026-02-14 01:20:23,468 - INFO - Updated description for 635370
+2026-02-14 01:20:25,101 - INFO - Updated description for 631058
+2026-02-14 01:20:26,765 - INFO - Updated description for 635375
+2026-02-14 01:20:28,657 - INFO - Updated description for 631061
+2026-02-14 01:20:30,190 - INFO - Updated description for 631062
+2026-02-14 01:20:31,994 - INFO - Updated description for 631063
+2026-02-14 01:20:33,647 - INFO - Updated description for 631064
+2026-02-14 01:20:35,326 - INFO - Updated description for 632325
+2026-02-14 01:20:36,876 - INFO - Updated description for 635400
+2026-02-14 01:20:39,042 - INFO - Updated description for 635432
+2026-02-14 01:20:41,338 - INFO - Updated description for 634989
+2026-02-14 01:20:43,332 - INFO - Updated description for 635454
+2026-02-14 01:20:45,305 - INFO - Updated description for 635479
+2026-02-14 01:20:47,969 - INFO - Updated description for 635480
+2026-02-14 01:20:50,847 - INFO - Updated description for 635093
+2026-02-14 01:20:53,210 - INFO - Updated description for 635549
+2026-02-14 01:20:53,717 - INFO - 
+=== SUMMARY ===
+2026-02-14 01:20:53,717 - INFO - Total jobs in database: 1371
+2026-02-14 01:20:53,717 - INFO - New jobs added: 37
+2026-02-14 01:20:53,717 - INFO - Descriptions updated: 37
+2026-02-14 01:20:53,717 - INFO - Verified facilities: 122
+2026-02-14 01:20:53,717 - INFO - Unverified facilities: 326
+2026-02-14 01:20:53,717 - INFO - Log saved to: logs/api_scraper_20260214_011933.log
+2026-02-14 01:20:53,832 - INFO - Exported 1371 jobs to jobs.csv
