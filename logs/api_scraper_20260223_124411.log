@@ -1,0 +1,17 @@
+2026-02-23 12:44:11,702 - INFO - Starting API job scraper
+2026-02-23 12:44:11,703 - INFO - Loaded 853 master facilities
+2026-02-23 12:44:11,703 - INFO - Fetching jobs from API...
+2026-02-23 12:44:15,308 - INFO - Total jobs found: 500
+2026-02-23 12:44:15,350 - INFO - New job: Retail Sales Worker Lead - Seminole County Jail - 637947 [UNVERIFIED: Seminole County Jail]
+2026-02-23 12:44:26,224 - INFO - Added 1 new jobs
+2026-02-23 12:44:26,224 - INFO - Fetching descriptions for 1 new jobs...
+2026-02-23 12:44:27,431 - INFO - Updated description for 637947
+2026-02-23 12:44:27,937 - INFO - 
+=== SUMMARY ===
+2026-02-23 12:44:27,937 - INFO - Total jobs in database: 1446
+2026-02-23 12:44:27,937 - INFO - New jobs added: 1
+2026-02-23 12:44:27,937 - INFO - Descriptions updated: 1
+2026-02-23 12:44:27,937 - INFO - Verified facilities: 128
+2026-02-23 12:44:27,937 - INFO - Unverified facilities: 332
+2026-02-23 12:44:27,937 - INFO - Log saved to: logs/api_scraper_20260223_124411.log
+2026-02-23 12:44:28,057 - INFO - Exported 1446 jobs to jobs.csv
