@@ -1,0 +1,17 @@
+2026-03-02 12:38:46,402 - INFO - Starting API job scraper
+2026-03-02 12:38:46,402 - INFO - Loaded 853 master facilities
+2026-03-02 12:38:46,402 - INFO - Fetching jobs from API...
+2026-03-02 12:38:50,203 - INFO - Total jobs found: 500
+2026-03-02 12:38:50,256 - INFO - New job: Corrections Oversight Worker - Portage County Jail - 639359 [UNVERIFIED: Portage County Jail]
+2026-03-02 12:39:01,415 - INFO - Added 1 new jobs
+2026-03-02 12:39:01,415 - INFO - Fetching descriptions for 1 new jobs...
+2026-03-02 12:39:02,677 - INFO - Updated description for 639359
+2026-03-02 12:39:03,185 - INFO - 
+=== SUMMARY ===
+2026-03-02 12:39:03,185 - INFO - Total jobs in database: 1497
+2026-03-02 12:39:03,185 - INFO - New jobs added: 1
+2026-03-02 12:39:03,185 - INFO - Descriptions updated: 1
+2026-03-02 12:39:03,186 - INFO - Verified facilities: 128
+2026-03-02 12:39:03,186 - INFO - Unverified facilities: 335
+2026-03-02 12:39:03,186 - INFO - Log saved to: logs/api_scraper_20260302_123846.log
+2026-03-02 12:39:03,311 - INFO - Exported 1497 jobs to jobs.csv
