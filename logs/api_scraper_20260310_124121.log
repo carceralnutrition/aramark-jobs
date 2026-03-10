@@ -1,0 +1,65 @@
+2026-03-10 12:41:21,251 - INFO - Starting API job scraper
+2026-03-10 12:41:21,252 - INFO - Loaded 853 master facilities
+2026-03-10 12:41:21,252 - INFO - Fetching jobs from API...
+2026-03-10 12:41:25,160 - INFO - Total jobs found: 500
+2026-03-10 12:41:25,202 - INFO - New job: Commissary Worker - Charleston County, SC - 638965 [UNVERIFIED: Charleston County, SC]
+2026-03-10 12:41:25,237 - INFO - New job: Food Service Supervisor - Clinton County Sheriff IA - 639621 [UNVERIFIED: Clinton County Sheriff IA]
+2026-03-10 12:41:25,279 - INFO - New job: Retail Operator Lead - Hillsborough County Commissary, FL - 640039 [UNVERIFIED: Hillsborough County Commissary, FL]
+2026-03-10 12:41:25,319 - INFO - New job: Commissary Worker - Santa Barbara County Commissary - 640218 [UNVERIFIED: Santa Barbara County Commissary]
+2026-03-10 12:41:25,348 - INFO - New job: Food Service Supervisor - Douglas County D.O.C. - 640237 [UNVERIFIED: Douglas County D.O.C.]
+2026-03-10 12:41:25,376 - INFO - New job: Food Service Worker - VOA Cincinnati - 640830 [UNVERIFIED: VOA Cincinnati]
+2026-03-10 12:41:25,402 - INFO - New job: Corrections Oversight Worker - Tom Green County - 640843 [UNVERIFIED: Tom Green County]
+2026-03-10 12:41:25,442 - INFO - New job: Corrections Oversight Worker - Wabash Valley Correctional Facility - 640844 [VERIFIED: Wabash Valley Correctional Facility]
+2026-03-10 12:41:25,484 - INFO - New job: Corrections Oversight Worker - Missouri Eastern Correctional Center - 640851 [VERIFIED: Missouri Eastern Correctional Center]
+2026-03-10 12:41:25,514 - INFO - New job: Corrections Oversight Worker - Lakin Correctional Center - 640874 [VERIFIED: Lakin Correctional Center]
+2026-03-10 12:41:25,550 - INFO - New job: Food Service Worker Lead - Northeast Correctional Center - 640903 [VERIFIED: Northeast Correctional Center]
+2026-03-10 12:41:25,586 - INFO - New job: Corrections Oversight Worker - Northeast Correctional Center - 640905 [VERIFIED: Northeast Correctional Center]
+2026-03-10 12:41:25,623 - INFO - New job: Lead Cook - Plainfield Correctional Facility - 640914 [VERIFIED: Plainfield Correctional Facility]
+2026-03-10 12:41:25,676 - INFO - New job: Corrections Oversight Worker - Debra K. Johnson Rehabilitation Center - 640926 [VERIFIED: Debra K. Johnson Rehabilitation Center]
+2026-03-10 12:41:25,700 - INFO - New job: Corrections Oversight Worker - Oriana House - 640942 [UNVERIFIED: Oriana House]
+2026-03-10 12:41:25,736 - INFO - New job: Corrections Oversight Worker - St Clair County Jail (IL) - 640957 [UNVERIFIED: St Clair County Jail (IL)]
+2026-03-10 12:41:25,770 - INFO - New job: Corrections Oversight Worker - Delaware County (PA) Jail - 641004 [UNVERIFIED: Delaware County (PA) Jail]
+2026-03-10 12:41:25,772 - INFO - New job: Commissary Worker - 641030 [No facility found]
+2026-03-10 12:41:25,772 - INFO - New job: Commissary Worker - 641039 [No facility found]
+2026-03-10 12:41:25,807 - INFO - New job: Commissary Worker - USG - USCS - SOUTH DAKOTA - 641052 [UNVERIFIED: USG - USCS - SOUTH DAKOTA]
+2026-03-10 12:41:25,808 - INFO - New job: Commissary Worker - 641058 [No facility found]
+2026-03-10 12:41:25,808 - INFO - New job: Food Service Supervisor - 641062 [No facility found]
+2026-03-10 12:41:25,808 - INFO - New job: Food Service Manager - 641065 [No facility found]
+2026-03-10 12:41:25,808 - INFO - New job: Food Service Director - 641066 [No facility found]
+2026-03-10 12:41:25,808 - INFO - New job: Food Service Manager - 641070 [No facility found]
+2026-03-10 12:41:36,210 - INFO - Added 25 new jobs
+2026-03-10 12:41:36,210 - INFO - Fetching descriptions for 25 new jobs...
+2026-03-10 12:41:37,544 - INFO - Updated description for 638965
+2026-03-10 12:41:39,324 - INFO - Updated description for 639621
+2026-03-10 12:41:41,085 - INFO - Updated description for 640039
+2026-03-10 12:41:42,861 - INFO - Updated description for 640218
+2026-03-10 12:41:44,694 - INFO - Updated description for 640237
+2026-03-10 12:41:46,366 - INFO - Updated description for 640830
+2026-03-10 12:41:48,136 - INFO - Updated description for 640843
+2026-03-10 12:41:49,782 - INFO - Updated description for 640844
+2026-03-10 12:41:51,528 - INFO - Updated description for 640851
+2026-03-10 12:41:53,300 - INFO - Updated description for 640874
+2026-03-10 12:41:55,063 - INFO - Updated description for 640903
+2026-03-10 12:41:56,785 - INFO - Updated description for 640905
+2026-03-10 12:41:58,570 - INFO - Updated description for 640914
+2026-03-10 12:42:00,278 - INFO - Updated description for 640926
+2026-03-10 12:42:02,070 - INFO - Updated description for 640942
+2026-03-10 12:42:03,936 - INFO - Updated description for 640957
+2026-03-10 12:42:05,638 - INFO - Updated description for 641004
+2026-03-10 12:42:07,365 - INFO - Updated description for 641030
+2026-03-10 12:42:09,052 - INFO - Updated description for 641039
+2026-03-10 12:42:10,908 - INFO - Updated description for 641052
+2026-03-10 12:42:12,687 - INFO - Updated description for 641058
+2026-03-10 12:42:14,386 - INFO - Updated description for 641062
+2026-03-10 12:42:16,099 - INFO - Updated description for 641065
+2026-03-10 12:42:17,886 - INFO - Updated description for 641066
+2026-03-10 12:42:19,610 - INFO - Updated description for 641070
+2026-03-10 12:42:20,117 - INFO - 
+=== SUMMARY ===
+2026-03-10 12:42:20,117 - INFO - Total jobs in database: 1591
+2026-03-10 12:42:20,117 - INFO - New jobs added: 25
+2026-03-10 12:42:20,118 - INFO - Descriptions updated: 25
+2026-03-10 12:42:20,118 - INFO - Verified facilities: 128
+2026-03-10 12:42:20,118 - INFO - Unverified facilities: 344
+2026-03-10 12:42:20,118 - INFO - Log saved to: logs/api_scraper_20260310_124121.log
+2026-03-10 12:42:20,252 - INFO - Exported 1591 jobs to jobs.csv
