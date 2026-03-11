@@ -1,0 +1,49 @@
+2026-03-11 12:40:35,560 - INFO - Starting API job scraper
+2026-03-11 12:40:35,561 - INFO - Loaded 853 master facilities
+2026-03-11 12:40:35,561 - INFO - Fetching jobs from API...
+2026-03-11 12:40:43,615 - INFO - Total jobs found: 500
+2026-03-11 12:40:43,617 - INFO - New job: Food Service Manager - 639962 [No facility found]
+2026-03-11 12:40:43,680 - INFO - New job: Commissary Worker - Winnebago County Commissary (IL) - 641020 [UNVERIFIED: Winnebago County Commissary (IL)]
+2026-03-11 12:40:43,714 - INFO - New job: Corrections Oversight Worker - Winnebago County Corrections - 641021 [UNVERIFIED: Winnebago County Corrections]
+2026-03-11 12:40:43,739 - INFO - New job: Corrections Oversight Worker - Rock County Jail - 641071 [UNVERIFIED: Rock County Jail]
+2026-03-11 12:40:43,739 - INFO - New job: Food Service Supervisor - 641074 [No facility found]
+2026-03-11 12:40:43,780 - INFO - New job: Food Service Worker Lead - Hillsborough County Commissary, FL - 635691 [UNVERIFIED: Hillsborough County Commissary, FL]
+2026-03-11 12:40:43,808 - INFO - New job: Corrections Oversight Worker - NWFRC - Main/Annex - (110/125) - 640597 [UNVERIFIED: NWFRC - Main/Annex]
+2026-03-11 12:40:43,808 - INFO - New job: Food Service Worker Lead - 641139 [No facility found]
+2026-03-11 12:40:43,840 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 641151 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-03-11 12:40:43,880 - INFO - New job: Retail Sales Worker Lead - Allen Oakwood Correctional Facility - 641174 [VERIFIED: Altona Correctional Facility]
+2026-03-11 12:40:43,909 - INFO - New job: Corrections Oversight Worker - ALDOC - Hamilton CBF - 641177 [UNVERIFIED: ALDOC - Hamilton CBF]
+2026-03-11 12:40:43,939 - INFO - New job: Food Service Worker - Benton County Sheriff WA - 641196 [UNVERIFIED: Benton County Sheriff WA]
+2026-03-11 12:40:43,939 - INFO - New job: Maintenance Worker - 641229 [No facility found]
+2026-03-11 12:40:43,963 - INFO - New job: Corrections Oversight Worker - Fairfax County - 641244 [UNVERIFIED: Fairfax County]
+2026-03-11 12:40:43,996 - INFO - New job: Food Service Worker - Westchester County D.O.C. - 641259 [UNVERIFIED: Westchester County D.O.C.]
+2026-03-11 12:40:44,048 - INFO - New job: Food Service Worker Lead - Fulton Reception and Diagnostic Center - 641265 [VERIFIED: Fulton Reception and Diagnostic Center]
+2026-03-11 12:40:44,075 - INFO - New job: Corrections Oversight Worker - Marinette County - 641315 [UNVERIFIED: Marinette County]
+2026-03-11 12:40:54,739 - INFO - Added 17 new jobs
+2026-03-11 12:40:54,739 - INFO - Fetching descriptions for 17 new jobs...
+2026-03-11 12:40:55,768 - INFO - Updated description for 639962
+2026-03-11 12:40:57,434 - INFO - Updated description for 641020
+2026-03-11 12:40:59,052 - INFO - Updated description for 641021
+2026-03-11 12:41:00,628 - INFO - Updated description for 641071
+2026-03-11 12:41:02,197 - INFO - Updated description for 641074
+2026-03-11 12:41:03,821 - INFO - Updated description for 635691
+2026-03-11 12:41:05,495 - INFO - Updated description for 640597
+2026-03-11 12:41:07,142 - INFO - Updated description for 641139
+2026-03-11 12:41:08,676 - INFO - Updated description for 641151
+2026-03-11 12:41:10,200 - INFO - Updated description for 641174
+2026-03-11 12:41:11,724 - INFO - Updated description for 641177
+2026-03-11 12:41:13,235 - INFO - Updated description for 641196
+2026-03-11 12:41:14,770 - INFO - Updated description for 641229
+2026-03-11 12:41:16,391 - INFO - Updated description for 641244
+2026-03-11 12:41:17,979 - INFO - Updated description for 641259
+2026-03-11 12:41:19,638 - INFO - Updated description for 641265
+2026-03-11 12:41:21,324 - INFO - Updated description for 641315
+2026-03-11 12:41:21,834 - INFO - 
+=== SUMMARY ===
+2026-03-11 12:41:21,834 - INFO - Total jobs in database: 1608
+2026-03-11 12:41:21,834 - INFO - New jobs added: 17
+2026-03-11 12:41:21,834 - INFO - Descriptions updated: 17
+2026-03-11 12:41:21,834 - INFO - Verified facilities: 128
+2026-03-11 12:41:21,834 - INFO - Unverified facilities: 345
+2026-03-11 12:41:21,834 - INFO - Log saved to: logs/api_scraper_20260311_124035.log
+2026-03-11 12:41:21,981 - INFO - Exported 1608 jobs to jobs.csv
