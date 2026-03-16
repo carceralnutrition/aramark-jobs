@@ -1,0 +1,17 @@
+2026-03-16 12:53:22,590 - INFO - Starting API job scraper
+2026-03-16 12:53:22,590 - INFO - Loaded 853 master facilities
+2026-03-16 12:53:22,590 - INFO - Fetching jobs from API...
+2026-03-16 12:53:26,665 - INFO - Total jobs found: 500
+2026-03-16 12:53:26,772 - INFO - New job: Food Service Worker - Pulaski County Regional Detention Facility - 642074 [VERIFIED: South Florida Detention Facility]
+2026-03-16 12:53:37,850 - INFO - Added 1 new jobs
+2026-03-16 12:53:37,850 - INFO - Fetching descriptions for 1 new jobs...
+2026-03-16 12:53:39,013 - INFO - Updated description for 642074
+2026-03-16 12:53:39,518 - INFO - 
+=== SUMMARY ===
+2026-03-16 12:53:39,518 - INFO - Total jobs in database: 1647
+2026-03-16 12:53:39,519 - INFO - New jobs added: 1
+2026-03-16 12:53:39,519 - INFO - Descriptions updated: 1
+2026-03-16 12:53:39,519 - INFO - Verified facilities: 128
+2026-03-16 12:53:39,519 - INFO - Unverified facilities: 348
+2026-03-16 12:53:39,519 - INFO - Log saved to: logs/api_scraper_20260316_125322.log
+2026-03-16 12:53:39,645 - INFO - Exported 1647 jobs to jobs.csv
