@@ -1,0 +1,41 @@
+2026-03-17 12:52:51,291 - INFO - Starting API job scraper
+2026-03-17 12:52:51,291 - INFO - Loaded 853 master facilities
+2026-03-17 12:52:51,291 - INFO - Fetching jobs from API...
+2026-03-17 12:52:53,590 - INFO - Total jobs found: 500
+2026-03-17 12:52:53,591 - INFO - New job: Kitchen Oversight Worker - 641324 [No facility found]
+2026-03-17 12:52:53,642 - INFO - New job: Corrections Oversight Worker - Burnet County Jail - 641706 [UNVERIFIED: Burnet County Jail]
+2026-03-17 12:52:53,676 - INFO - New job: Corrections Oversight Worker - Columbia - CI/Annex - (201/251) - 641736 [UNVERIFIED: Columbia - CI/Annex]
+2026-03-17 12:52:53,676 - INFO - New job: Food Service Manager - 641843 [No facility found]
+2026-03-17 12:52:53,676 - INFO - New job: Data Analytics Specialist - 642042 [No facility found]
+2026-03-17 12:52:53,676 - INFO - New job: Food Service Manager - 642139 [No facility found]
+2026-03-17 12:52:53,676 - INFO - New job: Food Service Manager - 642152 [No facility found]
+2026-03-17 12:52:53,714 - INFO - New job: Food Service Supervisor - Norton/Stockton Correctional - 642168 [UNVERIFIED: Norton/Stockton Correctional]
+2026-03-17 12:52:53,752 - INFO - New job: Food Service Supervisor - Hamilton County Jail (TN) - 642232 [UNVERIFIED: Hamilton County Jail (TN)]
+2026-03-17 12:52:53,785 - INFO - New job: Corrections Oversight Worker - Alexandria County Jail - 642245 [UNVERIFIED: Alexandria County Jail]
+2026-03-17 12:52:53,836 - INFO - New job: Food Service Worker - Jackson County Detention Center (MO) - 642294 [UNVERIFIED: Jackson County Detention Center (MO)]
+2026-03-17 12:52:53,836 - INFO - New job: General Manager I - 642302 [No facility found]
+2026-03-17 12:52:53,889 - INFO - New job: Corrections Oversight Worker - Santa Rosa Criminal Justice Facility - 642345 [UNVERIFIED: Santa Rosa Criminal Justice Facility]
+2026-03-17 12:53:04,887 - INFO - Added 13 new jobs
+2026-03-17 12:53:04,887 - INFO - Fetching descriptions for 13 new jobs...
+2026-03-17 12:53:06,230 - INFO - Updated description for 641324
+2026-03-17 12:53:07,893 - INFO - Updated description for 641706
+2026-03-17 12:53:09,677 - INFO - Updated description for 641736
+2026-03-17 12:53:11,386 - INFO - Updated description for 641843
+2026-03-17 12:53:13,013 - INFO - Updated description for 642042
+2026-03-17 12:53:14,715 - INFO - Updated description for 642139
+2026-03-17 12:53:16,616 - INFO - Updated description for 642152
+2026-03-17 12:53:18,417 - INFO - Updated description for 642168
+2026-03-17 12:53:20,213 - INFO - Updated description for 642232
+2026-03-17 12:53:21,890 - INFO - Updated description for 642245
+2026-03-17 12:53:23,639 - INFO - Updated description for 642294
+2026-03-17 12:53:25,266 - INFO - Updated description for 642302
+2026-03-17 12:53:27,089 - INFO - Updated description for 642345
+2026-03-17 12:53:27,597 - INFO - 
+=== SUMMARY ===
+2026-03-17 12:53:27,598 - INFO - Total jobs in database: 1660
+2026-03-17 12:53:27,598 - INFO - New jobs added: 13
+2026-03-17 12:53:27,598 - INFO - Descriptions updated: 13
+2026-03-17 12:53:27,598 - INFO - Verified facilities: 128
+2026-03-17 12:53:27,598 - INFO - Unverified facilities: 348
+2026-03-17 12:53:27,598 - INFO - Log saved to: logs/api_scraper_20260317_125251.log
+2026-03-17 12:53:27,740 - INFO - Exported 1660 jobs to jobs.csv
