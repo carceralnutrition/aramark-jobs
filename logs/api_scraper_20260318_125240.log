@@ -1,0 +1,37 @@
+2026-03-18 12:52:40,567 - INFO - Starting API job scraper
+2026-03-18 12:52:40,568 - INFO - Loaded 853 master facilities
+2026-03-18 12:52:40,568 - INFO - Fetching jobs from API...
+2026-03-18 12:52:44,713 - INFO - Total jobs found: 500
+2026-03-18 12:52:44,950 - INFO - New job: Laundry Worker - Wyandotte County Detention Center - 639297 [VERIFIED: Detroit Detention Center]
+2026-03-18 12:52:44,987 - INFO - New job: Warehouse Worker III - USG - OH WAREHOUSE - FE - 642414 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-03-18 12:52:45,024 - INFO - New job: Food Service Worker - Erie County Care Facility - 642417 [VERIFIED: Otero County Prison Facility]
+2026-03-18 12:52:45,026 - INFO - New job: Food Service Manager - 642472 [No facility found]
+2026-03-18 12:52:45,026 - INFO - New job: Office Coordinator II - 642473 [No facility found]
+2026-03-18 12:52:45,064 - INFO - New job: Food Service Manager-Clinton County Sheriff IA - 642524 [UNVERIFIED: Clinton County Sheriff IA]
+2026-03-18 12:52:45,064 - INFO - New job: Food Service Manager - 641915 [No facility found]
+2026-03-18 12:52:45,085 - INFO - New job: Corrections Oversight Worker - 642051 [No facility found]
+2026-03-18 12:52:45,086 - INFO - New job: Corrections Oversight Worker - 642052 [No facility found]
+2026-03-18 12:52:45,086 - INFO - New job: Corrections Oversight Worker - 642053 [No facility found]
+2026-03-18 12:52:45,120 - INFO - New job: Corrections Oversight Worker - Randolph County Jail - 642248 [UNVERIFIED: Randolph County Jail]
+2026-03-18 12:52:55,728 - INFO - Added 11 new jobs
+2026-03-18 12:52:55,728 - INFO - Fetching descriptions for 11 new jobs...
+2026-03-18 12:52:56,939 - INFO - Updated description for 639297
+2026-03-18 12:52:58,711 - INFO - Updated description for 642414
+2026-03-18 12:53:00,286 - INFO - Updated description for 642417
+2026-03-18 12:53:01,974 - INFO - Updated description for 642472
+2026-03-18 12:53:03,585 - INFO - Updated description for 642473
+2026-03-18 12:53:05,243 - INFO - Updated description for 642524
+2026-03-18 12:53:06,804 - INFO - Updated description for 641915
+2026-03-18 12:53:08,480 - INFO - Updated description for 642051
+2026-03-18 12:53:10,040 - INFO - Updated description for 642052
+2026-03-18 12:53:11,684 - INFO - Updated description for 642053
+2026-03-18 12:53:13,334 - INFO - Updated description for 642248
+2026-03-18 12:53:13,841 - INFO - 
+=== SUMMARY ===
+2026-03-18 12:53:13,842 - INFO - Total jobs in database: 1671
+2026-03-18 12:53:13,842 - INFO - New jobs added: 11
+2026-03-18 12:53:13,842 - INFO - Descriptions updated: 11
+2026-03-18 12:53:13,842 - INFO - Verified facilities: 128
+2026-03-18 12:53:13,842 - INFO - Unverified facilities: 348
+2026-03-18 12:53:13,842 - INFO - Log saved to: logs/api_scraper_20260318_125240.log
+2026-03-18 12:53:13,983 - INFO - Exported 1671 jobs to jobs.csv
