@@ -1,0 +1,25 @@
+2026-03-21 12:31:38,474 - INFO - Starting API job scraper
+2026-03-21 12:31:38,475 - INFO - Loaded 853 master facilities
+2026-03-21 12:31:38,475 - INFO - Fetching jobs from API...
+2026-03-21 12:31:42,165 - INFO - Total jobs found: 500
+2026-03-21 12:31:42,250 - INFO - New job: Corrections Oversight Worker - Potomac Highlands Regional Jail and Correctional Facility - 642054 [VERIFIED: Chittenden Regional Correctional Facility]
+2026-03-21 12:31:42,250 - INFO - New job: Food Service Manager - 642115 [No facility found]
+2026-03-21 12:31:42,266 - INFO - New job: General Manager I - Corrections - 643048 [UNVERIFIED: Corrections]
+2026-03-21 12:31:42,309 - INFO - New job: Corrections Oversight Worker - Warren County Corrections Ctr (NJ) - 643104 [VERIFIED: Hardeman County Correctional Center]
+2026-03-21 12:31:42,348 - INFO - New job: Cook - Hillsborough County Jail Food - 643141 [UNVERIFIED: Hillsborough County Jail Food]
+2026-03-21 12:31:53,403 - INFO - Added 5 new jobs
+2026-03-21 12:31:53,403 - INFO - Fetching descriptions for 5 new jobs...
+2026-03-21 12:31:54,634 - INFO - Updated description for 642054
+2026-03-21 12:31:56,322 - INFO - Updated description for 642115
+2026-03-21 12:31:58,027 - INFO - Updated description for 643048
+2026-03-21 12:31:59,734 - INFO - Updated description for 643104
+2026-03-21 12:32:01,367 - INFO - Updated description for 643141
+2026-03-21 12:32:01,874 - INFO - 
+=== SUMMARY ===
+2026-03-21 12:32:01,874 - INFO - Total jobs in database: 1707
+2026-03-21 12:32:01,875 - INFO - New jobs added: 5
+2026-03-21 12:32:01,875 - INFO - Descriptions updated: 5
+2026-03-21 12:32:01,875 - INFO - Verified facilities: 130
+2026-03-21 12:32:01,875 - INFO - Unverified facilities: 352
+2026-03-21 12:32:01,875 - INFO - Log saved to: logs/api_scraper_20260321_123138.log
+2026-03-21 12:32:02,017 - INFO - Exported 1707 jobs to jobs.csv
