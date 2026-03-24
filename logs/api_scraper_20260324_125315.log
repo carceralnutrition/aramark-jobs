@@ -1,0 +1,35 @@
+2026-03-24 12:53:15,428 - INFO - Starting API job scraper
+2026-03-24 12:53:15,429 - INFO - Loaded 853 master facilities
+2026-03-24 12:53:15,429 - INFO - Fetching jobs from API...
+2026-03-24 12:53:18,442 - INFO - Total jobs found: 500
+2026-03-24 12:53:18,489 - INFO - New job: Food Service Worker - St. Mary's Correctional Center - 643400 [VERIFIED: St. Marys Correctional Center]
+2026-03-24 12:53:18,490 - INFO - New job: Warehouse Worker Lead - 642428 [No facility found]
+2026-03-24 12:53:18,490 - INFO - New job: Commissary Manager - 643437 [No facility found]
+2026-03-24 12:53:18,527 - INFO - New job: Patient Services Worker - Erie County Care Facility - 643446 [VERIFIED: Otero County Prison Facility]
+2026-03-24 12:53:18,564 - INFO - New job: Food Service Supervisor - Hamilton County Jail (TN) - 643481 [UNVERIFIED: Hamilton County Jail (TN)]
+2026-03-24 12:53:18,564 - INFO - New job: Commissary Worker - 643506 [No facility found]
+2026-03-24 12:53:18,564 - INFO - New job: Food Service Manager - 642585 [No facility found]
+2026-03-24 12:53:18,610 - INFO - New job: Food Service Worker - New River Valley Regional Jail - 643310 [UNVERIFIED: New River Valley Regional Jail]
+2026-03-24 12:53:18,646 - INFO - New job: Housekeeper - Erie County Care Facility - 643311 [VERIFIED: Otero County Prison Facility]
+2026-03-24 12:53:18,688 - INFO - New job: Corrections Oversight Worker - FL Womens Reception Center - (368) - 643312 [VERIFIED: Florida Women's Reception Center]
+2026-03-24 12:53:29,331 - INFO - Added 10 new jobs
+2026-03-24 12:53:29,331 - INFO - Fetching descriptions for 10 new jobs...
+2026-03-24 12:53:30,307 - INFO - Updated description for 643400
+2026-03-24 12:53:31,885 - INFO - Updated description for 642428
+2026-03-24 12:53:33,383 - INFO - Updated description for 643437
+2026-03-24 12:53:35,017 - INFO - Updated description for 643446
+2026-03-24 12:53:36,502 - INFO - Updated description for 643481
+2026-03-24 12:53:38,018 - INFO - Updated description for 643506
+2026-03-24 12:53:39,516 - INFO - Updated description for 642585
+2026-03-24 12:53:41,218 - INFO - Updated description for 643310
+2026-03-24 12:53:42,670 - INFO - Updated description for 643311
+2026-03-24 12:53:44,137 - INFO - Updated description for 643312
+2026-03-24 12:53:44,645 - INFO - 
+=== SUMMARY ===
+2026-03-24 12:53:44,646 - INFO - Total jobs in database: 1719
+2026-03-24 12:53:44,646 - INFO - New jobs added: 10
+2026-03-24 12:53:44,646 - INFO - Descriptions updated: 10
+2026-03-24 12:53:44,646 - INFO - Verified facilities: 130
+2026-03-24 12:53:44,646 - INFO - Unverified facilities: 352
+2026-03-24 12:53:44,646 - INFO - Log saved to: logs/api_scraper_20260324_125315.log
+2026-03-24 12:53:44,796 - INFO - Exported 1719 jobs to jobs.csv
