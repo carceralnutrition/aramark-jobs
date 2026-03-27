@@ -1,0 +1,29 @@
+2026-03-27 12:44:44,566 - INFO - Starting API job scraper
+2026-03-27 12:44:44,567 - INFO - Loaded 853 master facilities
+2026-03-27 12:44:44,567 - INFO - Fetching jobs from API...
+2026-03-27 12:44:54,242 - INFO - Total jobs found: 500
+2026-03-27 12:44:54,294 - INFO - New job: Food Service Worker - South Correctional Entity - 644235 [VERIFIED: Southeast Correctional Center]
+2026-03-27 12:44:54,326 - INFO - New job: Food Service Manager - Racine County Juvenile - 644252 [UNVERIFIED: Racine County Juvenile]
+2026-03-27 12:44:54,357 - INFO - New job: Utility Worker - Escambia County Jail - 644315 [UNVERIFIED: Escambia County Jail]
+2026-03-27 12:44:54,388 - INFO - New job: Food Service Worker - Escambia County Jail - 644333 [UNVERIFIED: Escambia County Jail]
+2026-03-27 12:44:54,388 - INFO - New job: Food Service Manager - 644335 [No facility found]
+2026-03-27 12:44:54,421 - INFO - New job: Corrections Oversight Worker - Alvis 180 Chillicothe - 644337 [UNVERIFIED: Alvis 180 Chillicothe]
+2026-03-27 12:44:54,472 - INFO - New job: Warehouse Worker - Milwaukee House of Corrections Commissary - 644353 [UNVERIFIED: Milwaukee House of Corrections Commissary]
+2026-03-27 12:45:05,526 - INFO - Added 7 new jobs
+2026-03-27 12:45:05,526 - INFO - Fetching descriptions for 7 new jobs...
+2026-03-27 12:45:06,685 - INFO - Updated description for 644235
+2026-03-27 12:45:08,347 - INFO - Updated description for 644252
+2026-03-27 12:45:10,053 - INFO - Updated description for 644315
+2026-03-27 12:45:11,781 - INFO - Updated description for 644333
+2026-03-27 12:45:13,463 - INFO - Updated description for 644335
+2026-03-27 12:45:15,352 - INFO - Updated description for 644337
+2026-03-27 12:45:17,062 - INFO - Updated description for 644353
+2026-03-27 12:45:17,569 - INFO - 
+=== SUMMARY ===
+2026-03-27 12:45:17,569 - INFO - Total jobs in database: 1749
+2026-03-27 12:45:17,569 - INFO - New jobs added: 7
+2026-03-27 12:45:17,569 - INFO - Descriptions updated: 7
+2026-03-27 12:45:17,569 - INFO - Verified facilities: 130
+2026-03-27 12:45:17,569 - INFO - Unverified facilities: 353
+2026-03-27 12:45:17,569 - INFO - Log saved to: logs/api_scraper_20260327_124444.log
+2026-03-27 12:45:17,717 - INFO - Exported 1749 jobs to jobs.csv
