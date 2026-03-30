@@ -1,0 +1,19 @@
+2026-03-30 12:59:48,478 - INFO - Starting API job scraper
+2026-03-30 12:59:48,478 - INFO - Loaded 853 master facilities
+2026-03-30 12:59:48,478 - INFO - Fetching jobs from API...
+2026-03-30 12:59:51,005 - INFO - Total jobs found: 500
+2026-03-30 12:59:51,055 - INFO - New job: Lead Cook - Hillsborough County Jail Food - 637954 [UNVERIFIED: Hillsborough County Jail Food]
+2026-03-30 12:59:51,095 - INFO - New job: Food Service Worker - Hillsborough County Jail Food - 637955 [UNVERIFIED: Hillsborough County Jail Food]
+2026-03-30 13:00:02,637 - INFO - Added 2 new jobs
+2026-03-30 13:00:02,637 - INFO - Fetching descriptions for 2 new jobs...
+2026-03-30 13:00:04,006 - INFO - Updated description for 637954
+2026-03-30 13:00:05,649 - INFO - Updated description for 637955
+2026-03-30 13:00:06,951 - INFO - 
+=== SUMMARY ===
+2026-03-30 13:00:06,951 - INFO - Total jobs in database: 1772
+2026-03-30 13:00:06,951 - INFO - New jobs added: 2
+2026-03-30 13:00:06,951 - INFO - Descriptions updated: 2
+2026-03-30 13:00:06,951 - INFO - Verified facilities: 131
+2026-03-30 13:00:06,951 - INFO - Unverified facilities: 355
+2026-03-30 13:00:06,951 - INFO - Log saved to: logs/api_scraper_20260330_125948.log
+2026-03-30 13:00:07,108 - INFO - Exported 1772 jobs to jobs.csv
