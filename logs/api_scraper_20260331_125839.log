@@ -1,0 +1,51 @@
+2026-03-31 12:58:39,462 - INFO - Starting API job scraper
+2026-03-31 12:58:39,462 - INFO - Loaded 853 master facilities
+2026-03-31 12:58:39,463 - INFO - Fetching jobs from API...
+2026-03-31 12:58:40,659 - INFO - Total jobs found: 500
+2026-03-31 12:58:40,660 - INFO - New job: Corrections Oversight Worker - 645017 [No facility found]
+2026-03-31 12:58:40,660 - INFO - New job: Food Service Director - 645045 [No facility found]
+2026-03-31 12:58:41,049 - INFO - New job: Food Service Supervisor - South Dakota State Penitentiary (Sioux Falls) - 645091 [VERIFIED: South Dakota State Penitentiary]
+2026-03-31 12:58:41,049 - INFO - New job: Talent Acquisition Manager - 645094 [No facility found]
+2026-03-31 12:58:41,050 - INFO - New job: Talent Acquisition Partner - 645095 [No facility found]
+2026-03-31 12:58:41,050 - INFO - New job: Talent Acquisition Specialist - 645096 [No facility found]
+2026-03-31 12:58:41,050 - INFO - New job: Talent Acquisition Specialist-Mobilization - 645098 [No facility found]
+2026-03-31 12:58:41,082 - INFO - New job: Corrections Oversight Worker - Bowling Green Jail (KY) - 645128 [UNVERIFIED: Bowling Green Jail (KY)]
+2026-03-31 12:58:41,117 - INFO - New job: Food Service Worker - London Correctional Institution - 645147 [VERIFIED: London Correctional Institution]
+2026-03-31 12:58:41,117 - INFO - New job: Food Service Manager - 645149 [No facility found]
+2026-03-31 12:58:41,170 - INFO - New job: Food Service Worker - Southern Regional Jail and Correctional Facility - 645150 [VERIFIED: Northeast Regional Correctional Facility]
+2026-03-31 12:58:41,215 - INFO - New job: Corrections Oversight Worker - Volunteers of America - Indiana - 644561 [UNVERIFIED: Volunteers of America - Indiana]
+2026-03-31 12:58:41,258 - INFO - New job: Driver/Cook - Volunteers of America - Indiana - 644564 [UNVERIFIED: Volunteers of America - Indiana]
+2026-03-31 12:58:41,287 - INFO - New job: Corrections Oversight Worker - Mayo - CI/Annex - (223) - 644853 [UNVERIFIED: Mayo - CI/Annex]
+2026-03-31 12:58:41,325 - INFO - New job: Commissary Worker - Orange County Commissary (FL) - 644854 [UNVERIFIED: Orange County Commissary (FL)]
+2026-03-31 12:58:41,325 - INFO - New job: Food Service Manager - 644881 [No facility found]
+2026-03-31 12:58:41,341 - INFO - New job: Resident General Manager - Corrections - 644885 [UNVERIFIED: Corrections]
+2026-03-31 12:58:41,367 - INFO - New job: Food Service Worker - Erie County Jail - 644888 [UNVERIFIED: Erie County Jail]
+2026-03-31 12:58:52,646 - INFO - Added 18 new jobs
+2026-03-31 12:58:52,646 - INFO - Fetching descriptions for 18 new jobs...
+2026-03-31 12:58:53,635 - INFO - Updated description for 645017
+2026-03-31 12:58:55,118 - INFO - Updated description for 645045
+2026-03-31 12:58:56,955 - INFO - Updated description for 645091
+2026-03-31 12:58:58,426 - INFO - Updated description for 645094
+2026-03-31 12:58:59,891 - INFO - Updated description for 645095
+2026-03-31 12:59:01,352 - INFO - Updated description for 645096
+2026-03-31 12:59:02,816 - INFO - Updated description for 645098
+2026-03-31 12:59:04,420 - INFO - Updated description for 645128
+2026-03-31 12:59:05,890 - INFO - Updated description for 645147
+2026-03-31 12:59:07,483 - INFO - Updated description for 645149
+2026-03-31 12:59:08,947 - INFO - Updated description for 645150
+2026-03-31 12:59:10,516 - INFO - Updated description for 644561
+2026-03-31 12:59:12,052 - INFO - Updated description for 644564
+2026-03-31 12:59:13,688 - INFO - Updated description for 644853
+2026-03-31 12:59:15,192 - INFO - Updated description for 644854
+2026-03-31 12:59:16,815 - INFO - Updated description for 644881
+2026-03-31 12:59:18,394 - INFO - Updated description for 644885
+2026-03-31 12:59:19,955 - INFO - Updated description for 644888
+2026-03-31 12:59:20,463 - INFO - 
+=== SUMMARY ===
+2026-03-31 12:59:20,463 - INFO - Total jobs in database: 1790
+2026-03-31 12:59:20,463 - INFO - New jobs added: 18
+2026-03-31 12:59:20,463 - INFO - Descriptions updated: 18
+2026-03-31 12:59:20,463 - INFO - Verified facilities: 131
+2026-03-31 12:59:20,463 - INFO - Unverified facilities: 355
+2026-03-31 12:59:20,463 - INFO - Log saved to: logs/api_scraper_20260331_125839.log
+2026-03-31 12:59:20,612 - INFO - Exported 1790 jobs to jobs.csv
