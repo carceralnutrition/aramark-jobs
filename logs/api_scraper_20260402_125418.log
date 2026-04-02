@@ -1,0 +1,43 @@
+2026-04-02 12:54:18,294 - INFO - Starting API job scraper
+2026-04-02 12:54:18,294 - INFO - Loaded 853 master facilities
+2026-04-02 12:54:18,294 - INFO - Fetching jobs from API...
+2026-04-02 12:54:20,525 - INFO - Total jobs found: 500
+2026-04-02 12:54:20,574 - INFO - New job: Corrections Oversight Worker - Clinton County Correctional Facility - PA - 645625 [VERIFIED: Bent County Correctional Facility]
+2026-04-02 12:54:20,605 - INFO - New job: Corrections Oversight Worker - Essex County Correctional (MA) - 645629 [VERIFIED: Bledsoe County Correctional Complex]
+2026-04-02 12:54:20,663 - INFO - New job: Maintenance Worker - Santa Rosa Criminal Justice Facility (Facilities) - 645631 [UNVERIFIED: Santa Rosa Criminal Justice Facility (Facilities)]
+2026-04-02 12:54:20,713 - INFO - New job: Correctional Oversight Worker - Southwestern Regional Jail and Correctional Facility - 645640 [VERIFIED: Northeast Regional Correctional Facility]
+2026-04-02 12:54:20,741 - INFO - New job: Food Service Worker Lead - Cumberland County Jail - 645674 [UNVERIFIED: Cumberland County Jail]
+2026-04-02 12:54:20,790 - INFO - New job: Food Service Worker - Debra K. Johnson Rehabilitation Center - 645684 [VERIFIED: Debra K. Johnson Rehabilitation Center]
+2026-04-02 12:54:20,791 - INFO - New job: Food Service Worker - 645690 [No facility found]
+2026-04-02 12:54:20,811 - INFO - New job: Corrections Oversight Worker - Liberty - CI/SU - (120/142) - 645698 [UNVERIFIED: Liberty - CI/SU]
+2026-04-02 12:54:20,812 - INFO - New job: Food Service Manager - 645224 [No facility found]
+2026-04-02 12:54:20,812 - INFO - New job: Commissary Manager - 644935 [No facility found]
+2026-04-02 12:54:20,848 - INFO - New job: Cook - Forrest County Jail Food MS - 644983 [UNVERIFIED: Forrest County Jail Food MS]
+2026-04-02 12:54:20,883 - INFO - New job: Food Service Supervisor - Yavapai County Sheriff's Office - 645566 [UNVERIFIED: Yavapai County Sheriff's Office]
+2026-04-02 12:54:20,908 - INFO - New job: Laundry Worker - Merced County Jail - 645082 [UNVERIFIED: Merced County Jail]
+2026-04-02 12:54:20,932 - INFO - New job: Laundry Worker Lead - Merced County Jail - 645083 [UNVERIFIED: Merced County Jail]
+2026-04-02 12:54:31,279 - INFO - Added 14 new jobs
+2026-04-02 12:54:31,280 - INFO - Fetching descriptions for 14 new jobs...
+2026-04-02 12:54:32,299 - INFO - Updated description for 645625
+2026-04-02 12:54:33,917 - INFO - Updated description for 645629
+2026-04-02 12:54:35,432 - INFO - Updated description for 645631
+2026-04-02 12:54:37,113 - INFO - Updated description for 645640
+2026-04-02 12:54:38,788 - INFO - Updated description for 645674
+2026-04-02 12:54:40,349 - INFO - Updated description for 645684
+2026-04-02 12:54:41,909 - INFO - Updated description for 645690
+2026-04-02 12:54:43,496 - INFO - Updated description for 645698
+2026-04-02 12:54:44,991 - INFO - Updated description for 645224
+2026-04-02 12:54:46,464 - INFO - Updated description for 644935
+2026-04-02 12:54:48,048 - INFO - Updated description for 644983
+2026-04-02 12:54:49,550 - INFO - Updated description for 645566
+2026-04-02 12:54:51,267 - INFO - Updated description for 645082
+2026-04-02 12:54:52,839 - INFO - Updated description for 645083
+2026-04-02 12:54:53,345 - INFO - 
+=== SUMMARY ===
+2026-04-02 12:54:53,345 - INFO - Total jobs in database: 1811
+2026-04-02 12:54:53,345 - INFO - New jobs added: 14
+2026-04-02 12:54:53,345 - INFO - Descriptions updated: 14
+2026-04-02 12:54:53,345 - INFO - Verified facilities: 131
+2026-04-02 12:54:53,345 - INFO - Unverified facilities: 357
+2026-04-02 12:54:53,345 - INFO - Log saved to: logs/api_scraper_20260402_125418.log
+2026-04-02 12:54:53,488 - INFO - Exported 1811 jobs to jobs.csv
