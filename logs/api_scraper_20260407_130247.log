@@ -1,0 +1,39 @@
+2026-04-07 13:02:47,595 - INFO - Starting API job scraper
+2026-04-07 13:02:47,596 - INFO - Loaded 853 master facilities
+2026-04-07 13:02:47,596 - INFO - Fetching jobs from API...
+2026-04-07 13:02:48,918 - INFO - Total jobs found: 500
+2026-04-07 13:02:48,987 - INFO - New job: Food Service Worker - Haymarket Center Inc. - 644193 [UNVERIFIED: Haymarket Center Inc.]
+2026-04-07 13:02:49,020 - INFO - New job: Food Prep Worker - Haymarket Center Inc. - 644198 [UNVERIFIED: Haymarket Center Inc.]
+2026-04-07 13:02:49,021 - INFO - New job: Food Service Director - 646003 [No facility found]
+2026-04-07 13:02:49,065 - INFO - New job: Lead Cook - Chain O' Lakes Correctional Facility - 646084 [VERIFIED: Chain O'Lakes Correctional Facility]
+2026-04-07 13:02:49,094 - INFO - New job: Food Service Worker - Harris County Cafe - 646088 [VERIFIED: Carter County Annex]
+2026-04-07 13:02:49,129 - INFO - New job: Food Service Worker - Tri-County Regional Jail - 646107 [UNVERIFIED: Tri-County Regional Jail]
+2026-04-07 13:02:49,130 - INFO - New job: Food Service Worker - 646125 [No facility found]
+2026-04-07 13:02:49,168 - INFO - New job: Laundry Worker - Anoka County Jail Facility - 646141 [VERIFIED: Otero County Prison Facility]
+2026-04-07 13:02:49,212 - INFO - New job: Laundry Worker - Atlantic County Justice Facility - 646177 [UNVERIFIED: Atlantic County Justice Facility]
+2026-04-07 13:02:49,262 - INFO - New job: Cook - Nueces County Juvenile Justice Center - 646203 [UNVERIFIED: Nueces County Juvenile Justice Center]
+2026-04-07 13:02:49,309 - INFO - New job: Commissary Worker - Shawnee County Department of Corrections - 646208 [UNVERIFIED: Shawnee County Department of Corrections]
+2026-04-07 13:02:49,345 - INFO - New job: General Utility Worker - Ohio State Penitentiary - 646209 [VERIFIED: Ohio State Penitentiary]
+2026-04-07 13:03:00,025 - INFO - Added 12 new jobs
+2026-04-07 13:03:00,025 - INFO - Fetching descriptions for 12 new jobs...
+2026-04-07 13:03:01,369 - INFO - Updated description for 644193
+2026-04-07 13:03:03,114 - INFO - Updated description for 644198
+2026-04-07 13:03:05,073 - INFO - Updated description for 646003
+2026-04-07 13:03:06,800 - INFO - Updated description for 646084
+2026-04-07 13:03:08,530 - INFO - Updated description for 646088
+2026-04-07 13:03:10,254 - INFO - Updated description for 646107
+2026-04-07 13:03:11,999 - INFO - Updated description for 646125
+2026-04-07 13:03:13,812 - INFO - Updated description for 646141
+2026-04-07 13:03:15,483 - INFO - Updated description for 646177
+2026-04-07 13:03:17,045 - INFO - Updated description for 646203
+2026-04-07 13:03:18,730 - INFO - Updated description for 646208
+2026-04-07 13:03:20,344 - INFO - Updated description for 646209
+2026-04-07 13:03:20,851 - INFO - 
+=== SUMMARY ===
+2026-04-07 13:03:20,851 - INFO - Total jobs in database: 1840
+2026-04-07 13:03:20,851 - INFO - New jobs added: 12
+2026-04-07 13:03:20,851 - INFO - Descriptions updated: 12
+2026-04-07 13:03:20,851 - INFO - Verified facilities: 131
+2026-04-07 13:03:20,851 - INFO - Unverified facilities: 357
+2026-04-07 13:03:20,851 - INFO - Log saved to: logs/api_scraper_20260407_130247.log
+2026-04-07 13:03:21,002 - INFO - Exported 1840 jobs to jobs.csv
