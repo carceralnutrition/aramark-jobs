@@ -1,0 +1,53 @@
+2026-04-10 12:52:47,604 - INFO - Starting API job scraper
+2026-04-10 12:52:47,604 - INFO - Loaded 853 master facilities
+2026-04-10 12:52:47,604 - INFO - Fetching jobs from API...
+2026-04-10 12:52:50,733 - INFO - Total jobs found: 500
+2026-04-10 12:52:50,826 - INFO - New job: Corrections Oversight Worker - Northpoint Training Center - 646608 [VERIFIED: Northpoint Training Center]
+2026-04-10 12:52:50,880 - INFO - New job: Cook - The Harris Center for Mental Health and IDD - 646698 [UNVERIFIED: The Harris Center for Mental Health and IDD]
+2026-04-10 12:52:50,912 - INFO - New job: Food Service Supervisor - Escambia County Jail - 646836 [UNVERIFIED: Escambia County Jail]
+2026-04-10 12:52:50,937 - INFO - New job: Food Service Supervisor - Leon County Jail - 646838 [UNVERIFIED: Leon County Jail]
+2026-04-10 12:52:50,938 - INFO - New job: Food Service Manager - 646894 [No facility found]
+2026-04-10 12:52:50,938 - INFO - New job: Food Service Manager - 646898 [No facility found]
+2026-04-10 12:52:50,978 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 646899 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-04-10 12:52:51,015 - INFO - New job: Retail Sales Worker Lead - Cumberland County Jail - 646902 [UNVERIFIED: Cumberland County Jail]
+2026-04-10 12:52:51,068 - INFO - New job: Corrections Oversight Worker - Central Regional Jail and Correctional Facility - 646919 [VERIFIED: Central Arizona Correctional Facility[3]]
+2026-04-10 12:52:51,093 - INFO - New job: Food Service Worker - Quincy - Annex - (139) - 646944 [VERIFIED: Quincy Annex]
+2026-04-10 12:52:51,125 - INFO - New job: Maintenance Worker - Dona Ana (Facilities) - 646967 [UNVERIFIED: Dona Ana (Facilities)]
+2026-04-10 12:52:51,153 - INFO - New job: Corrections Oversight Worker - Mercer County CCC - 646969 [UNVERIFIED: Mercer County CCC]
+2026-04-10 12:52:51,194 - INFO - New job: Food Service Supervisor - Douglas County Minnesota Jail - 646988 [UNVERIFIED: Douglas County Minnesota Jail]
+2026-04-10 12:52:51,213 - INFO - New job: Corrections Oversight Worker - Union - WC - (268) - 647015 [UNVERIFIED: Union - WC]
+2026-04-10 12:52:51,240 - INFO - New job: Corrections Oversight Worker - Tom Green County - 647018 [UNVERIFIED: Tom Green County]
+2026-04-10 12:52:51,275 - INFO - New job: Corrections Oversight Worker - Vanderburgh County Sheriff - 647020 [UNVERIFIED: Vanderburgh County Sheriff]
+2026-04-10 12:52:51,308 - INFO - New job: Corrections Oversight Worker - Dauphin County Prison - 647036 [UNVERIFIED: Dauphin County Prison]
+2026-04-10 12:52:51,340 - INFO - New job: Retail Sales Worker Lead - Dauphin County Prison - 647041 [UNVERIFIED: Dauphin County Prison]
+2026-04-10 12:52:51,369 - INFO - New job: Corrections Oversight Worker - Douglas County D.O.C. - 647046 [UNVERIFIED: Douglas County D.O.C.]
+2026-04-10 12:53:02,298 - INFO - Added 19 new jobs
+2026-04-10 12:53:02,298 - INFO - Fetching descriptions for 19 new jobs...
+2026-04-10 12:53:03,775 - INFO - Updated description for 646608
+2026-04-10 12:53:05,490 - INFO - Updated description for 646698
+2026-04-10 12:53:07,388 - INFO - Updated description for 646836
+2026-04-10 12:53:09,126 - INFO - Updated description for 646838
+2026-04-10 12:53:10,861 - INFO - Updated description for 646894
+2026-04-10 12:53:12,536 - INFO - Updated description for 646898
+2026-04-10 12:53:14,423 - INFO - Updated description for 646899
+2026-04-10 12:53:16,146 - INFO - Updated description for 646902
+2026-04-10 12:53:17,892 - INFO - Updated description for 646919
+2026-04-10 12:53:19,598 - INFO - Updated description for 646944
+2026-04-10 12:53:21,307 - INFO - Updated description for 646967
+2026-04-10 12:53:23,197 - INFO - Updated description for 646969
+2026-04-10 12:53:25,142 - INFO - Updated description for 646988
+2026-04-10 12:53:27,011 - INFO - Updated description for 647015
+2026-04-10 12:53:28,833 - INFO - Updated description for 647018
+2026-04-10 12:53:30,592 - INFO - Updated description for 647020
+2026-04-10 12:53:32,273 - INFO - Updated description for 647036
+2026-04-10 12:53:33,996 - INFO - Updated description for 647041
+2026-04-10 12:53:35,836 - INFO - Updated description for 647046
+2026-04-10 12:53:36,343 - INFO - 
+=== SUMMARY ===
+2026-04-10 12:53:36,343 - INFO - Total jobs in database: 1887
+2026-04-10 12:53:36,343 - INFO - New jobs added: 19
+2026-04-10 12:53:36,343 - INFO - Descriptions updated: 19
+2026-04-10 12:53:36,343 - INFO - Verified facilities: 131
+2026-04-10 12:53:36,343 - INFO - Unverified facilities: 360
+2026-04-10 12:53:36,343 - INFO - Log saved to: logs/api_scraper_20260410_125247.log
+2026-04-10 12:53:36,498 - INFO - Exported 1887 jobs to jobs.csv
