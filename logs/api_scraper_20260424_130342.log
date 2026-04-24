@@ -1,0 +1,35 @@
+2026-04-24 13:03:42,898 - INFO - Starting API job scraper
+2026-04-24 13:03:42,899 - INFO - Loaded 853 master facilities
+2026-04-24 13:03:42,899 - INFO - Fetching jobs from API...
+2026-04-24 13:03:44,670 - INFO - Total jobs found: 500
+2026-04-24 13:03:44,712 - INFO - New job: Kitchen Supervisor - Desoto - Annex/WC - (564/560) - 649261 [VERIFIED: Desoto Annex]
+2026-04-24 13:03:44,757 - INFO - New job: Commissary Worker - Louisville Jefferson County Commissary - 649286 [UNVERIFIED: Louisville Jefferson County Commissary]
+2026-04-24 13:03:44,758 - INFO - New job: Food Service Manager - 649389 [No facility found]
+2026-04-24 13:03:44,759 - INFO - New job: Food Service Worker - 649392 [No facility found]
+2026-04-24 13:03:44,793 - INFO - New job: Corrections Oversight Worker - St. Mary's Correctional Center - 649401 [VERIFIED: St. Marys Correctional Center]
+2026-04-24 13:03:44,827 - INFO - New job: Lead Cook - Pruntytown Correctional Center - 649412 [VERIFIED: Pruntytown Correctional Center]
+2026-04-24 13:03:44,827 - INFO - New job: Food Service Director - 649452 [No facility found]
+2026-04-24 13:03:44,853 - INFO - New job: Food Service Worker - Nueces County Jail - 649490 [UNVERIFIED: Nueces County Jail]
+2026-04-24 13:03:44,895 - INFO - New job: Maintenance Worker - Oriana House (Facilities) - 649533 [UNVERIFIED: Oriana House (Facilities)]
+2026-04-24 13:03:44,895 - INFO - New job: Food Service Manager - 649571 [No facility found]
+2026-04-24 13:03:56,041 - INFO - Added 10 new jobs
+2026-04-24 13:03:56,041 - INFO - Fetching descriptions for 10 new jobs...
+2026-04-24 13:03:57,174 - INFO - Updated description for 649261
+2026-04-24 13:03:58,945 - INFO - Updated description for 649286
+2026-04-24 13:04:00,748 - INFO - Updated description for 649389
+2026-04-24 13:04:02,371 - INFO - Updated description for 649392
+2026-04-24 13:04:03,981 - INFO - Updated description for 649401
+2026-04-24 13:04:05,757 - INFO - Updated description for 649412
+2026-04-24 13:04:07,392 - INFO - Updated description for 649452
+2026-04-24 13:04:08,971 - INFO - Updated description for 649490
+2026-04-24 13:04:10,577 - INFO - Updated description for 649533
+2026-04-24 13:04:12,429 - INFO - Updated description for 649571
+2026-04-24 13:04:12,939 - INFO - 
+=== SUMMARY ===
+2026-04-24 13:04:12,939 - INFO - Total jobs in database: 2007
+2026-04-24 13:04:12,939 - INFO - New jobs added: 10
+2026-04-24 13:04:12,939 - INFO - Descriptions updated: 10
+2026-04-24 13:04:12,939 - INFO - Verified facilities: 134
+2026-04-24 13:04:12,940 - INFO - Unverified facilities: 365
+2026-04-24 13:04:12,940 - INFO - Log saved to: logs/api_scraper_20260424_130342.log
+2026-04-24 13:04:13,115 - INFO - Exported 2007 jobs to jobs.csv
