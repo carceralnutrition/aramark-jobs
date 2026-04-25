@@ -1,0 +1,45 @@
+2026-04-25 12:43:53,762 - INFO - Starting API job scraper
+2026-04-25 12:43:53,762 - INFO - Loaded 853 master facilities
+2026-04-25 12:43:53,762 - INFO - Fetching jobs from API...
+2026-04-25 12:43:55,417 - INFO - Total jobs found: 500
+2026-04-25 12:43:55,523 - INFO - New job: Maintenance Worker - Oriana House (Facilities) - 647847 [UNVERIFIED: Oriana House (Facilities)]
+2026-04-25 12:43:55,524 - INFO - New job: Resident District Manager, Aramark Facilities Management - 649442 [No facility found]
+2026-04-25 12:43:55,524 - INFO - New job: General Manager, Aramark Facilities Management - 649512 [No facility found]
+2026-04-25 12:43:55,561 - INFO - New job: Warehouse Worker -  USG - OH WAREHOUSE - UD - 649554 [UNVERIFIED: USG - OH WAREHOUSE - UD]
+2026-04-25 12:43:55,598 - INFO - New job: Warehouse Worker II - USG - OH WAREHOUSE - UD - 649555 [UNVERIFIED: USG - OH WAREHOUSE - UD]
+2026-04-25 12:43:55,620 - INFO - New job: Kitchen Supervisor - Holmes - WC - (162) - 649618 [UNVERIFIED: Holmes - WC]
+2026-04-25 12:43:55,659 - INFO - New job: Corrections Oversight Worker - Putnamville Correctional Facility - 649620 [VERIFIED: Putnamville Correctional Facility]
+2026-04-25 12:43:55,716 - INFO - New job: Corrections Oversight Worker - North Central Regional Jail and Correctional Facility - 649628 [VERIFIED: Northeast Regional Correctional Facility]
+2026-04-25 12:43:55,773 - INFO - New job: Food Service Worker - Anthony Correctional Center - Denmar Correctional Center - 649634 [UNVERIFIED: Anthony Correctional Center - Denmar Correctional Center]
+2026-04-25 12:43:55,799 - INFO - New job: Corrections Oversight Worker - Osceola County - 649663 [UNVERIFIED: Osceola County]
+2026-04-25 12:43:55,799 - INFO - New job: Food Service Manager - 649699 [No facility found]
+2026-04-25 12:43:55,841 - INFO - New job: Commissary Worker - Colorado Commissary Warehouse - 649736 [UNVERIFIED: Colorado Commissary Warehouse]
+2026-04-25 12:43:55,878 - INFO - New job: Cook Supervisor - Santa Rosa - CI/Annex/WC - (119/135/127) - 649765 [UNVERIFIED: Santa Rosa - CI/Annex/WC]
+2026-04-25 12:43:55,879 - INFO - New job: Food Service Manager - 649774 [No facility found]
+2026-04-25 12:43:55,879 - INFO - New job: Food Service Manager - 649775 [No facility found]
+2026-04-25 12:44:07,678 - INFO - Added 15 new jobs
+2026-04-25 12:44:07,678 - INFO - Fetching descriptions for 15 new jobs...
+2026-04-25 12:44:08,900 - INFO - Updated description for 647847
+2026-04-25 12:44:10,622 - INFO - Updated description for 649442
+2026-04-25 12:44:12,356 - INFO - Updated description for 649512
+2026-04-25 12:44:14,090 - INFO - Updated description for 649554
+2026-04-25 12:44:15,864 - INFO - Updated description for 649555
+2026-04-25 12:44:17,735 - INFO - Updated description for 649618
+2026-04-25 12:44:19,482 - INFO - Updated description for 649620
+2026-04-25 12:44:21,328 - INFO - Updated description for 649628
+2026-04-25 12:44:23,028 - INFO - Updated description for 649634
+2026-04-25 12:44:24,804 - INFO - Updated description for 649663
+2026-04-25 12:44:26,955 - INFO - Updated description for 649699
+2026-04-25 12:44:28,704 - INFO - Updated description for 649736
+2026-04-25 12:44:30,349 - INFO - Updated description for 649765
+2026-04-25 12:44:32,202 - INFO - Updated description for 649774
+2026-04-25 12:44:33,874 - INFO - Updated description for 649775
+2026-04-25 12:44:34,385 - INFO - 
+=== SUMMARY ===
+2026-04-25 12:44:34,385 - INFO - Total jobs in database: 2022
+2026-04-25 12:44:34,385 - INFO - New jobs added: 15
+2026-04-25 12:44:34,385 - INFO - Descriptions updated: 15
+2026-04-25 12:44:34,385 - INFO - Verified facilities: 134
+2026-04-25 12:44:34,385 - INFO - Unverified facilities: 368
+2026-04-25 12:44:34,385 - INFO - Log saved to: logs/api_scraper_20260425_124353.log
+2026-04-25 12:44:34,552 - INFO - Exported 2022 jobs to jobs.csv
