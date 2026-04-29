@@ -1,0 +1,27 @@
+2026-04-29 02:09:52,128 - INFO - Starting API job scraper
+2026-04-29 02:09:52,129 - INFO - Loaded 853 master facilities
+2026-04-29 02:09:52,129 - INFO - Fetching jobs from API...
+2026-04-29 02:09:56,316 - INFO - Total jobs found: 500
+2026-04-29 02:09:56,415 - INFO - New job: Food Service Worker - Madison Correctional Institution - 649660 [VERIFIED: Madison Correctional Institution]
+2026-04-29 02:09:56,459 - INFO - New job: Food Prep Worker - Atlantic County Justice Facility - 649850 [UNVERIFIED: Atlantic County Justice Facility]
+2026-04-29 02:09:56,487 - INFO - New job: Cook - Yellow Medicine - 649884 [UNVERIFIED: Yellow Medicine]
+2026-04-29 02:09:56,518 - INFO - New job: Food Service Worker - Pottawattamie County - 649886 [UNVERIFIED: Pottawattamie County]
+2026-04-29 02:09:56,553 - INFO - New job: Warehouse Worker I - USG - OH WAREHOUSE - UD - 649944 [UNVERIFIED: USG - OH WAREHOUSE - UD]
+2026-04-29 02:09:56,580 - INFO - New job: Corrections Oversight Worker - San Bruno Jail - 649964 [UNVERIFIED: San Bruno Jail]
+2026-04-29 02:09:56,611 - INFO - New job: Corrections Oversight Worker - Lakin Correctional Center - 649984 [VERIFIED: Lakin Correctional Center]
+2026-04-29 02:09:56,639 - INFO - New job: Corrections Oversight Worker - Racine County Jail - 649987 [VERIFIED: Travis County State Jail]
+2026-04-29 02:09:56,640 - INFO - New job: Food Service Manager - 649451 [No facility found]
+2026-04-29 02:09:56,640 - INFO - New job: Food Service Supervisor - 650060 [No facility found]
+2026-04-29 02:10:08,122 - INFO - Added 10 new jobs
+2026-04-29 02:10:08,122 - INFO - Fetching descriptions for 10 new jobs...
+2026-04-29 02:10:13,381 - INFO - Updated description for 649850
+2026-04-29 02:10:19,906 - INFO - Updated description for 649944
+2026-04-29 02:10:26,087 - INFO - 
+=== SUMMARY ===
+2026-04-29 02:10:26,087 - INFO - Total jobs in database: 2034
+2026-04-29 02:10:26,087 - INFO - New jobs added: 10
+2026-04-29 02:10:26,087 - INFO - Descriptions updated: 2
+2026-04-29 02:10:26,087 - INFO - Verified facilities: 135
+2026-04-29 02:10:26,087 - INFO - Unverified facilities: 368
+2026-04-29 02:10:26,088 - INFO - Log saved to: logs/api_scraper_20260429_020952.log
+2026-04-29 02:10:26,254 - INFO - Exported 2034 jobs to jobs.csv
