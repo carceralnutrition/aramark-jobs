@@ -1,0 +1,27 @@
+2026-05-02 12:51:48,569 - INFO - Starting API job scraper
+2026-05-02 12:51:48,570 - INFO - Loaded 853 master facilities
+2026-05-02 12:51:48,570 - INFO - Fetching jobs from API...
+2026-05-02 12:51:49,963 - INFO - Total jobs found: 500
+2026-05-02 12:51:50,000 - INFO - New job: Food Service Worker - Butler County - 651045 [UNVERIFIED: Butler County]
+2026-05-02 12:51:50,001 - INFO - New job: Food Service Manager - 651054 [No facility found]
+2026-05-02 12:51:50,027 - INFO - New job: Food Service Worker - WORTH Center - 651063 [UNVERIFIED: WORTH Center]
+2026-05-02 12:51:50,054 - INFO - New job: Commissary Delivery Rep -USG - USCS - MESA VERDE - 651086 [UNVERIFIED: USCS - MESA VERDE]
+2026-05-02 12:51:50,091 - INFO - New job: Corrections Oversight Worker - Indiana Women Prison (New) - 651116 [VERIFIED: Indiana Women's Prison]
+2026-05-02 12:51:50,126 - INFO - New job: Corrections Oversight Worker - Blair County Prison - 651138 [UNVERIFIED: Blair County Prison]
+2026-05-02 12:52:01,825 - INFO - Added 6 new jobs
+2026-05-02 12:52:01,825 - INFO - Fetching descriptions for 6 new jobs...
+2026-05-02 12:52:02,903 - INFO - Updated description for 651045
+2026-05-02 12:52:04,652 - INFO - Updated description for 651054
+2026-05-02 12:52:06,458 - INFO - Updated description for 651063
+2026-05-02 12:52:08,174 - INFO - Updated description for 651086
+2026-05-02 12:52:09,890 - INFO - Updated description for 651116
+2026-05-02 12:52:11,510 - INFO - Updated description for 651138
+2026-05-02 12:52:12,018 - INFO - 
+=== SUMMARY ===
+2026-05-02 12:52:12,018 - INFO - Total jobs in database: 2090
+2026-05-02 12:52:12,018 - INFO - New jobs added: 6
+2026-05-02 12:52:12,018 - INFO - Descriptions updated: 6
+2026-05-02 12:52:12,018 - INFO - Verified facilities: 136
+2026-05-02 12:52:12,018 - INFO - Unverified facilities: 372
+2026-05-02 12:52:12,018 - INFO - Log saved to: logs/api_scraper_20260502_125148.log
+2026-05-02 12:52:12,190 - INFO - Exported 2090 jobs to jobs.csv
