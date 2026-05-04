@@ -1,0 +1,17 @@
+2026-05-04 13:25:45,181 - INFO - Starting API job scraper
+2026-05-04 13:25:45,181 - INFO - Loaded 853 master facilities
+2026-05-04 13:25:45,181 - INFO - Fetching jobs from API...
+2026-05-04 13:25:50,569 - INFO - Total jobs found: 500
+2026-05-04 13:25:50,571 - INFO - New job: Food Service Manager - 651105 [No facility found]
+2026-05-04 13:26:02,644 - INFO - Added 1 new jobs
+2026-05-04 13:26:02,644 - INFO - Fetching descriptions for 1 new jobs...
+2026-05-04 13:26:03,959 - INFO - Updated description for 651105
+2026-05-04 13:26:04,468 - INFO - 
+=== SUMMARY ===
+2026-05-04 13:26:04,468 - INFO - Total jobs in database: 2091
+2026-05-04 13:26:04,468 - INFO - New jobs added: 1
+2026-05-04 13:26:04,468 - INFO - Descriptions updated: 1
+2026-05-04 13:26:04,468 - INFO - Verified facilities: 136
+2026-05-04 13:26:04,468 - INFO - Unverified facilities: 372
+2026-05-04 13:26:04,469 - INFO - Log saved to: logs/api_scraper_20260504_132545.log
+2026-05-04 13:26:04,645 - INFO - Exported 2091 jobs to jobs.csv
