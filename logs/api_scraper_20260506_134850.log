@@ -1,0 +1,57 @@
+2026-05-06 13:48:50,043 - INFO - Starting API job scraper
+2026-05-06 13:48:50,043 - INFO - Loaded 853 master facilities
+2026-05-06 13:48:50,043 - INFO - Fetching jobs from API...
+2026-05-06 13:48:53,098 - INFO - Total jobs found: 500
+2026-05-06 13:48:53,152 - INFO - New job: Food Service Worker - Hamilton Cnty Youth Center - 651184 [UNVERIFIED: Hamilton Cnty Youth Center]
+2026-05-06 13:48:53,153 - INFO - New job: Nutrition Associate Manager - 651259 [No facility found]
+2026-05-06 13:48:53,185 - INFO - New job: Commissary Supervisor - Miami Dade Commissary - 651322 [UNVERIFIED: Miami Dade Commissary]
+2026-05-06 13:48:53,185 - INFO - New job: Painter I - 649917 [No facility found]
+2026-05-06 13:48:53,216 - INFO - New job: Custodial Services Worker - Dona Ana (Facilities) - 651378 [UNVERIFIED: Dona Ana (Facilities)]
+2026-05-06 13:48:53,216 - INFO - New job: Field Sales Specialist - 651380 [No facility found]
+2026-05-06 13:48:53,257 - INFO - New job: Corrections Oversight Worker - Community Transitional Services, KY - 651393 [UNVERIFIED: Community Transitional Services, KY]
+2026-05-06 13:48:53,257 - INFO - New job: Food Service Manager - 650872 [No facility found]
+2026-05-06 13:48:53,284 - INFO - New job: Corrections Oversight Worker - Marinette County - 651437 [UNVERIFIED: Marinette County]
+2026-05-06 13:48:53,329 - INFO - New job: Food Service Worker - Riverbend Maximum Security Institution - 651439 [VERIFIED: Riverbend Maximum Security Institution]
+2026-05-06 13:48:53,365 - INFO - New job: Cook - Anoka County Jail Facility - 651449 [VERIFIED: Otero County Prison Facility]
+2026-05-06 13:48:53,399 - INFO - New job: Corrections Food Service Worker - Edinburg Correctional Facility - 651450 [VERIFIED: Edinburgh Correctional Facility]
+2026-05-06 13:48:53,447 - INFO - New job: Food Service Worker - Jefferson County Detention Facility - 651461 [VERIFIED: Otero County Prison Facility]
+2026-05-06 13:48:53,482 - INFO - New job: Corrections Oversight Worker - Northeast Correctional Complex - 651477 [VERIFIED: Northeast Correctional Complex]
+2026-05-06 13:48:53,513 - INFO - New job: Food Service Supervisor - Norton/Stockton Correctional - 651489 [UNVERIFIED: Norton/Stockton Correctional]
+2026-05-06 13:48:53,543 - INFO - New job: Corrections Inmate Worker - USG - USCS - KANSAS - 651532 [UNVERIFIED: USG - USCS - KANSAS]
+2026-05-06 13:48:53,577 - INFO - New job: Commissary Worker - Alameda County Commissary - 650094 [UNVERIFIED: Alameda County Commissary]
+2026-05-06 13:48:53,615 - INFO - New job: Administrative Assistant I - Northeast Correctional Complex - 649657 [VERIFIED: Northeast Correctional Complex]
+2026-05-06 13:48:53,646 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 651580 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-05-06 13:48:53,646 - INFO - New job: Food Service Manager - 651583 [No facility found]
+2026-05-06 13:48:53,646 - INFO - New job: Food Service Manager - 651110 [No facility found]
+2026-05-06 13:49:04,926 - INFO - Added 21 new jobs
+2026-05-06 13:49:04,927 - INFO - Fetching descriptions for 21 new jobs...
+2026-05-06 13:49:06,364 - INFO - Updated description for 651184
+2026-05-06 13:49:07,960 - INFO - Updated description for 651259
+2026-05-06 13:49:09,811 - INFO - Updated description for 651322
+2026-05-06 13:49:11,708 - INFO - Updated description for 649917
+2026-05-06 13:49:13,313 - INFO - Updated description for 651378
+2026-05-06 13:49:15,053 - INFO - Updated description for 651380
+2026-05-06 13:49:20,826 - INFO - Updated description for 651393
+2026-05-06 13:49:22,595 - INFO - Updated description for 650872
+2026-05-06 13:49:24,455 - INFO - Updated description for 651437
+2026-05-06 13:49:26,193 - INFO - Updated description for 651439
+2026-05-06 13:49:27,982 - INFO - Updated description for 651449
+2026-05-06 13:49:29,921 - INFO - Updated description for 651450
+2026-05-06 13:49:31,707 - INFO - Updated description for 651461
+2026-05-06 13:49:33,652 - INFO - Updated description for 651477
+2026-05-06 13:49:35,283 - INFO - Updated description for 651489
+2026-05-06 13:49:36,872 - INFO - Updated description for 651532
+2026-05-06 13:49:38,766 - INFO - Updated description for 650094
+2026-05-06 13:49:40,371 - INFO - Updated description for 649657
+2026-05-06 13:49:42,064 - INFO - Updated description for 651580
+2026-05-06 13:49:43,889 - INFO - Updated description for 651583
+2026-05-06 13:49:45,620 - INFO - Updated description for 651110
+2026-05-06 13:49:46,128 - INFO - 
+=== SUMMARY ===
+2026-05-06 13:49:46,129 - INFO - Total jobs in database: 2117
+2026-05-06 13:49:46,129 - INFO - New jobs added: 21
+2026-05-06 13:49:46,129 - INFO - Descriptions updated: 21
+2026-05-06 13:49:46,129 - INFO - Verified facilities: 136
+2026-05-06 13:49:46,129 - INFO - Unverified facilities: 373
+2026-05-06 13:49:46,129 - INFO - Log saved to: logs/api_scraper_20260506_134850.log
+2026-05-06 13:49:46,321 - INFO - Exported 2117 jobs to jobs.csv
