@@ -1,0 +1,17 @@
+2026-05-11 14:31:33,265 - INFO - Starting API job scraper
+2026-05-11 14:31:33,266 - INFO - Loaded 853 master facilities
+2026-05-11 14:31:33,266 - INFO - Fetching jobs from API...
+2026-05-11 14:31:35,669 - INFO - Total jobs found: 500
+2026-05-11 14:31:35,737 - INFO - New job: Food Service Worker Lead - Southern Regional Jail and Correctional Facility - 652307 [VERIFIED: Northeast Regional Correctional Facility]
+2026-05-11 14:31:46,683 - INFO - Added 1 new jobs
+2026-05-11 14:31:46,684 - INFO - Fetching descriptions for 1 new jobs...
+2026-05-11 14:31:47,988 - INFO - Updated description for 652307
+2026-05-11 14:31:48,495 - INFO - 
+=== SUMMARY ===
+2026-05-11 14:31:48,495 - INFO - Total jobs in database: 2159
+2026-05-11 14:31:48,495 - INFO - New jobs added: 1
+2026-05-11 14:31:48,495 - INFO - Descriptions updated: 1
+2026-05-11 14:31:48,496 - INFO - Verified facilities: 136
+2026-05-11 14:31:48,496 - INFO - Unverified facilities: 373
+2026-05-11 14:31:48,496 - INFO - Log saved to: logs/api_scraper_20260511_143133.log
+2026-05-11 14:31:48,678 - INFO - Exported 2159 jobs to jobs.csv
