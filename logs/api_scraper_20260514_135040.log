@@ -1,0 +1,45 @@
+2026-05-14 13:50:40,341 - INFO - Starting API job scraper
+2026-05-14 13:50:40,341 - INFO - Loaded 853 master facilities
+2026-05-14 13:50:40,341 - INFO - Fetching jobs from API...
+2026-05-14 13:50:42,716 - INFO - Total jobs found: 500
+2026-05-14 13:50:42,769 - INFO - New job: Food Service Worker Lead - Harris County Sheriff Food - 652907 [UNVERIFIED: Harris County Sheriff Food]
+2026-05-14 13:50:42,795 - INFO - New job: Corrections Oversight Worker - Oriana House - 652922 [UNVERIFIED: Oriana House]
+2026-05-14 13:50:42,827 - INFO - New job: Corrections Food Service Worker - Bowling Green Jail (KY) - 652931 [UNVERIFIED: Bowling Green Jail (KY)]
+2026-05-14 13:50:42,863 - INFO - New job: Food Service Worker Lead - Arapahoe Justice Complex - 652955 [UNVERIFIED: Arapahoe Justice Complex]
+2026-05-14 13:50:42,878 - INFO - New job: Retail Sales Worker-DM OVHD - KY DOC - 652969 [UNVERIFIED: KY DOC]
+2026-05-14 13:50:42,908 - INFO - New job: Corrections Oversight Worker - Oakland County Jail - 652167 [UNVERIFIED: Oakland County Jail]
+2026-05-14 13:50:42,909 - INFO - New job: Food Service Manager - 652712 [No facility found]
+2026-05-14 13:50:42,941 - INFO - New job: Administrative Support Worker - Dona Ana (Facilities) - 652824 [UNVERIFIED: Dona Ana (Facilities)]
+2026-05-14 13:50:42,941 - INFO - New job: Food Service Director - 652277 [No facility found]
+2026-05-14 13:50:42,941 - INFO - New job: Food Service Manager - 652280 [No facility found]
+2026-05-14 13:50:42,941 - INFO - New job: Food Service Director - 652839 [No facility found]
+2026-05-14 13:50:42,983 - INFO - New job: Commissary Worker - Hillsborough County Commissary, FL - 652300 [UNVERIFIED: Hillsborough County Commissary, FL]
+2026-05-14 13:50:42,984 - INFO - New job: Food Service Manager - 652853 [No facility found]
+2026-05-14 13:50:43,016 - INFO - New job: Corrections Food Service Worker - Salem Correctional Center - 652858 [VERIFIED: Salem Correctional Center]
+2026-05-14 13:50:43,016 - INFO - New job: Food Service Manager - 652859 [No facility found]
+2026-05-14 13:50:54,276 - INFO - Added 15 new jobs
+2026-05-14 13:50:54,277 - INFO - Fetching descriptions for 15 new jobs...
+2026-05-14 13:50:55,697 - INFO - Updated description for 652907
+2026-05-14 13:50:57,691 - INFO - Updated description for 652922
+2026-05-14 13:50:59,826 - INFO - Updated description for 652931
+2026-05-14 13:51:01,763 - INFO - Updated description for 652955
+2026-05-14 13:51:03,757 - INFO - Updated description for 652969
+2026-05-14 13:51:05,863 - INFO - Updated description for 652167
+2026-05-14 13:51:08,271 - INFO - Updated description for 652712
+2026-05-14 13:51:10,396 - INFO - Updated description for 652824
+2026-05-14 13:51:12,375 - INFO - Updated description for 652277
+2026-05-14 13:51:14,337 - INFO - Updated description for 652280
+2026-05-14 13:51:16,795 - INFO - Updated description for 652839
+2026-05-14 13:51:19,273 - INFO - Updated description for 652300
+2026-05-14 13:51:25,394 - INFO - Updated description for 652853
+2026-05-14 13:51:27,430 - INFO - Updated description for 652858
+2026-05-14 13:51:29,439 - INFO - Updated description for 652859
+2026-05-14 13:51:29,946 - INFO - 
+=== SUMMARY ===
+2026-05-14 13:51:29,946 - INFO - Total jobs in database: 2212
+2026-05-14 13:51:29,946 - INFO - New jobs added: 15
+2026-05-14 13:51:29,946 - INFO - Descriptions updated: 15
+2026-05-14 13:51:29,946 - INFO - Verified facilities: 137
+2026-05-14 13:51:29,946 - INFO - Unverified facilities: 377
+2026-05-14 13:51:29,946 - INFO - Log saved to: logs/api_scraper_20260514_135040.log
+2026-05-14 13:51:30,127 - INFO - Exported 2212 jobs to jobs.csv
