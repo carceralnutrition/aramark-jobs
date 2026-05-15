@@ -1,0 +1,29 @@
+2026-05-15 13:46:46,205 - INFO - Starting API job scraper
+2026-05-15 13:46:46,206 - INFO - Loaded 853 master facilities
+2026-05-15 13:46:46,206 - INFO - Fetching jobs from API...
+2026-05-15 13:46:48,624 - INFO - Total jobs found: 500
+2026-05-15 13:46:48,626 - INFO - New job: Food Service Manager - 651773 [No facility found]
+2026-05-15 13:46:48,674 - INFO - New job: Corrections Oversight Worker - Westville Correctional Facility - 651990 [VERIFIED: Westville Correctional Facility]
+2026-05-15 13:46:48,776 - INFO - New job: Corrections Oversight Worker - Vanderburgh County Sheriff - 653089 [UNVERIFIED: Vanderburgh County Sheriff]
+2026-05-15 13:46:48,809 - INFO - New job: Commissary Worker - Essex County Commissary - 653142 [UNVERIFIED: Essex County Commissary]
+2026-05-15 13:46:48,848 - INFO - New job: Retail Sales Worker - Brevard County Commissary, FL - 653147 [UNVERIFIED: Brevard County Commissary, FL]
+2026-05-15 13:46:48,848 - INFO - New job: Administrative Support Worker - 653152 [No facility found]
+2026-05-15 13:46:48,848 - INFO - New job: Food Service Manager - 653191 [No facility found]
+2026-05-15 13:47:00,355 - INFO - Added 7 new jobs
+2026-05-15 13:47:00,355 - INFO - Fetching descriptions for 7 new jobs...
+2026-05-15 13:47:01,501 - INFO - Updated description for 651773
+2026-05-15 13:47:03,122 - INFO - Updated description for 651990
+2026-05-15 13:47:04,675 - INFO - Updated description for 653089
+2026-05-15 13:47:06,438 - INFO - Updated description for 653142
+2026-05-15 13:47:08,062 - INFO - Updated description for 653147
+2026-05-15 13:47:09,825 - INFO - Updated description for 653152
+2026-05-15 13:47:11,517 - INFO - Updated description for 653191
+2026-05-15 13:47:12,026 - INFO - 
+=== SUMMARY ===
+2026-05-15 13:47:12,026 - INFO - Total jobs in database: 2219
+2026-05-15 13:47:12,026 - INFO - New jobs added: 7
+2026-05-15 13:47:12,027 - INFO - Descriptions updated: 7
+2026-05-15 13:47:12,027 - INFO - Verified facilities: 137
+2026-05-15 13:47:12,027 - INFO - Unverified facilities: 377
+2026-05-15 13:47:12,027 - INFO - Log saved to: logs/api_scraper_20260515_134646.log
+2026-05-15 13:47:12,209 - INFO - Exported 2219 jobs to jobs.csv
