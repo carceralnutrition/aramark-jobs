@@ -1,0 +1,60 @@
+2026-06-12 14:38:54,466 - INFO - Starting API job scraper
+2026-06-12 14:38:54,467 - INFO - Loaded 853 master facilities
+2026-06-12 14:38:54,467 - INFO - Fetching jobs from API...
+2026-06-12 14:38:56,919 - INFO - Total jobs found: 500
+2026-06-12 14:38:56,980 - INFO - New job: Food Service Director - 656820 [No facility found]
+2026-06-12 14:38:57,030 - INFO - New job: Cook - Nueces County Juvenile Justice Center - 658162 [UNVERIFIED: Nueces County Juvenile Justice Center]
+2026-06-12 14:38:57,066 - INFO - New job: Corrections Oversight Worker - Farmington Correctional Center - 658337 [VERIFIED: Farmington Correctional Center]
+2026-06-12 14:38:57,100 - INFO - New job: Corrections Food Service Worker - Kentucky State Penitentiary - 658398 [VERIFIED: Kentucky State Penitentiary]
+2026-06-12 14:38:57,137 - INFO - New job: Corrections Food Service Worker- Kent County Correctional Facility - 658439 [VERIFIED: Bent County Correctional Facility]
+2026-06-12 14:38:57,138 - INFO - New job: Food Service Manager - 658472 [No facility found]
+2026-06-12 14:38:57,175 - INFO - New job: Corrections Oversight Worker - Chillicothe Correctional Center - 658516 [VERIFIED: Chillicothe Correctional Center]
+2026-06-12 14:38:57,219 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 658521 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-06-12 14:38:57,257 - INFO - New job: Food Service Worker Lead - Chillicothe Correctional Center - 658529 [VERIFIED: Chillicothe Correctional Center]
+2026-06-12 14:38:57,257 - INFO - New job: Food Service Manager - 658546 [No facility found]
+2026-06-12 14:38:57,304 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 658577 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-06-12 14:38:57,336 - INFO - New job: Corrections Oversight Worker - OKDOC - Joseph Harp - 658579 [UNVERIFIED: OKDOC - Joseph Harp]
+2026-06-12 14:38:57,366 - INFO - New job: Food Service Worker Lead - OKDOC - Lexington - 658587 [UNVERIFIED: OKDOC - Lexington]
+2026-06-12 14:38:57,394 - INFO - New job: Corrections Oversight Worker - Medina County Jail - 658604 [UNVERIFIED: Medina County Jail]
+2026-06-12 14:38:57,424 - INFO - New job: Corrections Oversight Worker - OKDOC - Lexington - 658611 [UNVERIFIED: OKDOC - Lexington]
+2026-06-12 14:38:57,463 - INFO - New job: Commissary Worker - USG - USCS - WEST VIRGINIA - 658617 [UNVERIFIED: USG - USCS - WEST VIRGINIA]
+2026-06-12 14:38:57,499 - INFO - New job: Warehouse Supervisor - USG - OH WAREHOUSE - FE - 658620 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-06-12 14:38:57,540 - INFO - New job: Corrections Oversight Worker - OKDOC - OK State Reformatory - 658621 [VERIFIED: Kentucky State Reformatory]
+2026-06-12 14:38:57,568 - INFO - New job: Food Service Worker - DM OVHD - Das, A. - 658622 [UNVERIFIED: DM OVHD - Das, A.]
+2026-06-12 14:38:57,609 - INFO - New job: Food Service Worker Lead - OKDOC - OK State Reformatory - 658634 [VERIFIED: Kentucky State Reformatory]
+2026-06-12 14:38:57,647 - INFO - New job: Commissary Worker - Orange County Commissary (FL) - 658639 [UNVERIFIED: Orange County Commissary (FL)]
+2026-06-12 14:38:57,667 - INFO - New job: Food Service Manager - ASPC - Yuma - 658656 [UNVERIFIED: ASPC - Yuma]
+2026-06-12 14:38:57,693 - INFO - New job: Food Service Worker - Tom Green County - 658660 [UNVERIFIED: Tom Green County]
+2026-06-12 14:39:08,848 - INFO - Added 23 new jobs
+2026-06-12 14:39:08,848 - INFO - Fetching descriptions for 23 new jobs...
+2026-06-12 14:39:10,659 - INFO - Updated description for 656820
+2026-06-12 14:39:13,281 - INFO - Updated description for 658162
+2026-06-12 14:39:15,704 - INFO - Updated description for 658337
+2026-06-12 14:39:17,734 - INFO - Updated description for 658398
+2026-06-12 14:39:19,974 - INFO - Updated description for 658439
+2026-06-12 14:39:22,139 - INFO - Updated description for 658472
+2026-06-12 14:39:24,483 - INFO - Updated description for 658516
+2026-06-12 14:39:26,589 - INFO - Updated description for 658521
+2026-06-12 14:39:29,303 - INFO - Updated description for 658529
+2026-06-12 14:39:32,830 - INFO - Updated description for 658546
+2026-06-12 14:39:35,949 - INFO - Updated description for 658577
+2026-06-12 14:39:39,436 - INFO - Updated description for 658579
+2026-06-12 14:39:42,298 - INFO - Updated description for 658587
+2026-06-12 14:39:45,280 - INFO - Updated description for 658604
+2026-06-12 14:39:49,683 - INFO - Updated description for 658617
+2026-06-12 14:39:52,535 - INFO - Updated description for 658620
+2026-06-12 14:39:54,579 - INFO - Updated description for 658621
+2026-06-12 14:39:56,595 - INFO - Updated description for 658622
+2026-06-12 14:39:58,837 - INFO - Updated description for 658634
+2026-06-12 14:40:00,472 - INFO - Updated description for 658639
+2026-06-12 14:40:02,299 - INFO - Updated description for 658656
+2026-06-12 14:40:04,279 - INFO - Updated description for 658660
+2026-06-12 14:40:04,787 - INFO - 
+=== SUMMARY ===
+2026-06-12 14:40:04,787 - INFO - Total jobs in database: 2476
+2026-06-12 14:40:04,787 - INFO - New jobs added: 23
+2026-06-12 14:40:04,788 - INFO - Descriptions updated: 22
+2026-06-12 14:40:04,788 - INFO - Verified facilities: 139
+2026-06-12 14:40:04,788 - INFO - Unverified facilities: 401
+2026-06-12 14:40:04,788 - INFO - Log saved to: logs/api_scraper_20260612_143854.log
+2026-06-12 14:40:04,991 - INFO - Exported 2476 jobs to jobs.csv
