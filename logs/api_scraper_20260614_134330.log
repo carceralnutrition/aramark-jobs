@@ -1,0 +1,23 @@
+2026-06-14 13:43:30,884 - INFO - Starting API job scraper
+2026-06-14 13:43:30,884 - INFO - Loaded 853 master facilities
+2026-06-14 13:43:30,884 - INFO - Fetching jobs from API...
+2026-06-14 13:43:33,286 - INFO - Total jobs found: 500
+2026-06-14 13:43:33,288 - INFO - New job: Sales Support Coordinator I - 658034 [No facility found]
+2026-06-14 13:43:33,288 - INFO - New job: Sales Support Lead Coordinator - 658196 [No facility found]
+2026-06-14 13:43:33,288 - INFO - New job: Food Service Manager - 658209 [No facility found]
+2026-06-14 13:43:33,288 - INFO - New job: Food Service Director - 658681 [No facility found]
+2026-06-14 13:43:44,827 - INFO - Added 4 new jobs
+2026-06-14 13:43:44,827 - INFO - Fetching descriptions for 4 new jobs...
+2026-06-14 13:43:46,328 - INFO - Updated description for 658034
+2026-06-14 13:43:48,444 - INFO - Updated description for 658196
+2026-06-14 13:43:50,196 - INFO - Updated description for 658209
+2026-06-14 13:43:51,949 - INFO - Updated description for 658681
+2026-06-14 13:43:52,458 - INFO - 
+=== SUMMARY ===
+2026-06-14 13:43:52,458 - INFO - Total jobs in database: 2500
+2026-06-14 13:43:52,458 - INFO - New jobs added: 4
+2026-06-14 13:43:52,458 - INFO - Descriptions updated: 4
+2026-06-14 13:43:52,458 - INFO - Verified facilities: 139
+2026-06-14 13:43:52,459 - INFO - Unverified facilities: 407
+2026-06-14 13:43:52,459 - INFO - Log saved to: logs/api_scraper_20260614_134330.log
+2026-06-14 13:43:52,680 - INFO - Exported 2500 jobs to jobs.csv
