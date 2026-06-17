@@ -1,0 +1,45 @@
+2026-06-17 14:54:49,071 - INFO - Starting API job scraper
+2026-06-17 14:54:49,072 - INFO - Loaded 853 master facilities
+2026-06-17 14:54:49,072 - INFO - Fetching jobs from API...
+2026-06-17 14:54:51,989 - INFO - Total jobs found: 500
+2026-06-17 14:54:51,990 - INFO - New job: Food Service Manager - 658667 [No facility found]
+2026-06-17 14:54:52,036 - INFO - New job: Corrections Oversight Worker - Iredell County Jail - 658711 [UNVERIFIED: Iredell County Jail]
+2026-06-17 14:54:52,036 - INFO - New job: Food Service Manager - 659086 [No facility found]
+2026-06-17 14:54:52,036 - INFO - New job: Reserve Food Service Manager - 659329 [No facility found]
+2026-06-17 14:54:52,036 - INFO - New job: Food Service Worker - 659452 [No facility found]
+2026-06-17 14:54:52,059 - INFO - New job: Corrections Oversight Worker - ASPC - Tucson - 659479 [UNVERIFIED: ASPC - Tucson]
+2026-06-17 14:54:52,107 - INFO - New job: Food Service Supervisor - Western Regional Jail and Correctional Facility - 659493 [VERIFIED: Eastern Oregon Youth Correctional Facility]
+2026-06-17 14:54:52,107 - INFO - New job: Food Service Director - 659533 [No facility found]
+2026-06-17 14:54:52,107 - INFO - New job: Food Service Manager - 659539 [No facility found]
+2026-06-17 14:54:52,135 - INFO - New job: Food Service Supervisor - Douglas County D.O.C. - 659558 [UNVERIFIED: Douglas County D.O.C.]
+2026-06-17 14:54:52,156 - INFO - New job: Kitchen Supervisor - Gulf - Annex - (150) - 659583 [UNVERIFIED: Gulf - Annex]
+2026-06-17 14:54:52,157 - INFO - New job: Food Service Worker Lead - 659585 [No facility found]
+2026-06-17 14:54:52,172 - INFO - New job: Kitchen Supervisor - Gulf - CI - (109) - 659587 [UNVERIFIED: Gulf - CI]
+2026-06-17 14:54:52,202 - INFO - New job: Corrections Oversight Worker - Hamilton - CI/Annex - (215/250) - 659593 [UNVERIFIED: Hamilton - CI/Annex]
+2026-06-17 14:54:52,228 - INFO - New job: Corrections Oversight Worker - Pasco County Jail - 659601 [UNVERIFIED: Pasco County Jail]
+2026-06-17 14:55:03,340 - INFO - Added 15 new jobs
+2026-06-17 14:55:03,340 - INFO - Fetching descriptions for 15 new jobs...
+2026-06-17 14:55:04,788 - INFO - Updated description for 658667
+2026-06-17 14:55:06,635 - INFO - Updated description for 658711
+2026-06-17 14:55:09,065 - INFO - Updated description for 659086
+2026-06-17 14:55:11,403 - INFO - Updated description for 659329
+2026-06-17 14:55:13,743 - INFO - Updated description for 659452
+2026-06-17 14:55:15,909 - INFO - Updated description for 659479
+2026-06-17 14:55:17,991 - INFO - Updated description for 659493
+2026-06-17 14:55:20,627 - INFO - Updated description for 659533
+2026-06-17 14:55:22,665 - INFO - Updated description for 659539
+2026-06-17 14:55:24,971 - INFO - Updated description for 659558
+2026-06-17 14:55:27,250 - INFO - Updated description for 659583
+2026-06-17 14:55:29,208 - INFO - Updated description for 659585
+2026-06-17 14:55:31,546 - INFO - Updated description for 659587
+2026-06-17 14:55:33,705 - INFO - Updated description for 659593
+2026-06-17 14:55:35,796 - INFO - Updated description for 659601
+2026-06-17 14:55:36,306 - INFO - 
+=== SUMMARY ===
+2026-06-17 14:55:36,306 - INFO - Total jobs in database: 2523
+2026-06-17 14:55:36,306 - INFO - New jobs added: 15
+2026-06-17 14:55:36,306 - INFO - Descriptions updated: 15
+2026-06-17 14:55:36,306 - INFO - Verified facilities: 139
+2026-06-17 14:55:36,306 - INFO - Unverified facilities: 407
+2026-06-17 14:55:36,306 - INFO - Log saved to: logs/api_scraper_20260617_145449.log
+2026-06-17 14:55:36,502 - INFO - Exported 2523 jobs to jobs.csv
