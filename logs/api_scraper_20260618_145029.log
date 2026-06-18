@@ -1,0 +1,35 @@
+2026-06-18 14:50:29,982 - INFO - Starting API job scraper
+2026-06-18 14:50:29,982 - INFO - Loaded 853 master facilities
+2026-06-18 14:50:29,983 - INFO - Fetching jobs from API...
+2026-06-18 14:50:32,202 - INFO - Total jobs found: 500
+2026-06-18 14:50:32,249 - INFO - New job: Food Service Worker - Tri-County Regional Jail - 659702 [UNVERIFIED: Tri-County Regional Jail]
+2026-06-18 14:50:32,277 - INFO - New job: Food Service Worker Lead - Hutchinson Correctional - 659707 [VERIFIED: Hutchinson Correctional Facility]
+2026-06-18 14:50:32,314 - INFO - New job: Commissary Worker - USG - USCS - MILWAUKEE COUNTY - 659772 [UNVERIFIED: USG - USCS - MILWAUKEE COUNTY]
+2026-06-18 14:50:32,353 - INFO - New job: Food Production Lead Worker - Southeastern Correctional Facility - 659794 [VERIFIED: Eastern Correctional Facility]
+2026-06-18 14:50:32,396 - INFO - New job: Corrections Oversight Worker - Missouri Eastern Correctional Center - 659801 [VERIFIED: Missouri Eastern Correctional Center]
+2026-06-18 14:50:32,428 - INFO - New job: Cook - Pottawattamie County - 659424 [UNVERIFIED: Pottawattamie County]
+2026-06-18 14:50:32,459 - INFO - New job: Food Service Worker - Pottawattamie County - 659425 [UNVERIFIED: Pottawattamie County]
+2026-06-18 14:50:32,494 - INFO - New job: Food Service Worker Lead - Tri-County Regional Jail - 659521 [UNVERIFIED: Tri-County Regional Jail]
+2026-06-18 14:50:32,540 - INFO - New job: Corrections Oversight Worker - Northpoint Training Center - 659692 [VERIFIED: Northpoint Training Center]
+2026-06-18 14:50:32,580 - INFO - New job: Corrections Oversight Worker - Bledsoe County Correctional Complex - 659698 [VERIFIED: Bledsoe County Correctional Complex]
+2026-06-18 14:50:44,332 - INFO - Added 10 new jobs
+2026-06-18 14:50:44,332 - INFO - Fetching descriptions for 10 new jobs...
+2026-06-18 14:50:45,586 - INFO - Updated description for 659702
+2026-06-18 14:50:47,254 - INFO - Updated description for 659707
+2026-06-18 14:50:49,215 - INFO - Updated description for 659772
+2026-06-18 14:50:50,974 - INFO - Updated description for 659794
+2026-06-18 14:50:52,693 - INFO - Updated description for 659801
+2026-06-18 14:50:54,356 - INFO - Updated description for 659424
+2026-06-18 14:50:56,160 - INFO - Updated description for 659425
+2026-06-18 14:50:57,852 - INFO - Updated description for 659521
+2026-06-18 14:50:59,478 - INFO - Updated description for 659692
+2026-06-18 14:51:01,470 - INFO - Updated description for 659698
+2026-06-18 14:51:01,979 - INFO - 
+=== SUMMARY ===
+2026-06-18 14:51:01,979 - INFO - Total jobs in database: 2533
+2026-06-18 14:51:01,979 - INFO - New jobs added: 10
+2026-06-18 14:51:01,980 - INFO - Descriptions updated: 10
+2026-06-18 14:51:01,980 - INFO - Verified facilities: 139
+2026-06-18 14:51:01,980 - INFO - Unverified facilities: 407
+2026-06-18 14:51:01,980 - INFO - Log saved to: logs/api_scraper_20260618_145029.log
+2026-06-18 14:51:02,188 - INFO - Exported 2533 jobs to jobs.csv
