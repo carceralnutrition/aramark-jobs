@@ -1,0 +1,47 @@
+2026-06-26 14:06:49,556 - INFO - Starting API job scraper
+2026-06-26 14:06:49,556 - INFO - Loaded 853 master facilities
+2026-06-26 14:06:49,556 - INFO - Fetching jobs from API...
+2026-06-26 14:06:54,959 - INFO - Total jobs found: 500
+2026-06-26 14:06:54,996 - INFO - New job: Corrections Oversight Worker - Huttonsville Correction Center - 661849 [VERIFIED: Haynesville Correctional Center]
+2026-06-26 14:06:55,025 - INFO - New job: Retail Sales Worker Lead - Toledo Correctional Institution - 661850 [VERIFIED: Toledo Correctional Institution]
+2026-06-26 14:06:55,026 - INFO - New job: Food Service Site Manager - 661851 [No facility found]
+2026-06-26 14:06:55,038 - INFO - New job: General Manager - Corrections - 661356 [UNVERIFIED: Corrections]
+2026-06-26 14:06:55,057 - INFO - New job: Food Service Director - 661861 [No facility found]
+2026-06-26 14:06:55,057 - INFO - New job: Food Service Manager - 661873 [No facility found]
+2026-06-26 14:06:55,086 - INFO - New job: Food Service Supervisor - Alameda County-Santa Rita - 661888 [UNVERIFIED: Alameda County-Santa Rita]
+2026-06-26 14:06:55,087 - INFO - New job: Food Service Manager - 661899 [No facility found]
+2026-06-26 14:06:55,105 - INFO - New job: Corrections Oversight Worker - ASPC - Lewis - 660167 [UNVERIFIED: ASPC - Lewis]
+2026-06-26 14:06:55,141 - INFO - New job: Corrections Oversight Worker - Lorain Correctional Institution - Ohio DRC - 661605 [VERIFIED: Lorain Correctional Institution]
+2026-06-26 14:06:55,160 - INFO - New job: Corrections Oversight Worker - Rock County Jail - 661615 [UNVERIFIED: Rock County Jail]
+2026-06-26 14:06:55,188 - INFO - New job: Corrections Food Service Worker - Lexington Medical Prison - 661617 [UNVERIFIED: Lexington Medical Prison]
+2026-06-26 14:06:55,188 - INFO - New job: Food Service Supervisor - 661685 [No facility found]
+2026-06-26 14:06:55,212 - INFO - New job: Corrections Oversight Worker - Gadsden - Re-Entry - (144) - 661702 [UNVERIFIED: Gadsden - Re-Entry]
+2026-06-26 14:06:55,212 - INFO - New job: Food Service Manager - 661758 [No facility found]
+2026-06-26 14:06:55,242 - INFO - New job: Commissary Worker - Santa Clara County Commissary - 661776 [UNVERIFIED: Santa Clara County Commissary]
+2026-06-26 14:06:55,272 - INFO - New job: Commissary Worker - Sacramento County Commissary - 661778 [UNVERIFIED: Sacramento County Commissary]
+2026-06-26 14:07:03,867 - INFO - Added 17 new jobs
+2026-06-26 14:07:03,867 - INFO - Fetching descriptions for 17 new jobs...
+2026-06-26 14:07:06,386 - INFO - Updated description for 661849
+2026-06-26 14:07:09,752 - INFO - Updated description for 661850
+2026-06-26 14:07:12,700 - INFO - Updated description for 661851
+2026-06-26 14:07:15,570 - INFO - Updated description for 661356
+2026-06-26 14:07:18,493 - INFO - Updated description for 661861
+2026-06-26 14:07:21,246 - INFO - Updated description for 661873
+2026-06-26 14:07:23,921 - INFO - Updated description for 661888
+2026-06-26 14:07:27,439 - INFO - Updated description for 661899
+2026-06-26 14:07:30,859 - INFO - Updated description for 660167
+2026-06-26 14:07:35,228 - INFO - Updated description for 661615
+2026-06-26 14:07:39,826 - INFO - Updated description for 661685
+2026-06-26 14:07:43,021 - INFO - Updated description for 661702
+2026-06-26 14:07:46,559 - INFO - Updated description for 661758
+2026-06-26 14:07:50,305 - INFO - Updated description for 661776
+2026-06-26 14:07:52,259 - INFO - Updated description for 661778
+2026-06-26 14:07:52,771 - INFO - 
+=== SUMMARY ===
+2026-06-26 14:07:52,771 - INFO - Total jobs in database: 2588
+2026-06-26 14:07:52,771 - INFO - New jobs added: 17
+2026-06-26 14:07:52,771 - INFO - Descriptions updated: 15
+2026-06-26 14:07:52,771 - INFO - Verified facilities: 139
+2026-06-26 14:07:52,771 - INFO - Unverified facilities: 410
+2026-06-26 14:07:52,771 - INFO - Log saved to: logs/api_scraper_20260626_140649.log
+2026-06-26 14:07:52,942 - INFO - Exported 2588 jobs to jobs.csv
