@@ -1,0 +1,19 @@
+2026-07-05 13:13:20,847 - INFO - Starting API job scraper
+2026-07-05 13:13:20,848 - INFO - Loaded 853 master facilities
+2026-07-05 13:13:20,848 - INFO - Fetching jobs from API...
+2026-07-05 13:13:23,942 - INFO - Total jobs found: 500
+2026-07-05 13:13:24,000 - INFO - New job: Corrections Oversight Worker - West Tennessee State Penitentiary - 661950 [VERIFIED: West Tennessee State Penitentiary]
+2026-07-05 13:13:24,001 - INFO - New job: Food Service Manager - 663541 [No facility found]
+2026-07-05 13:13:35,373 - INFO - Added 2 new jobs
+2026-07-05 13:13:35,373 - INFO - Fetching descriptions for 2 new jobs...
+2026-07-05 13:13:36,682 - INFO - Updated description for 661950
+2026-07-05 13:13:38,467 - INFO - Updated description for 663541
+2026-07-05 13:13:38,977 - INFO - 
+=== SUMMARY ===
+2026-07-05 13:13:38,977 - INFO - Total jobs in database: 2635
+2026-07-05 13:13:38,977 - INFO - New jobs added: 2
+2026-07-05 13:13:38,977 - INFO - Descriptions updated: 2
+2026-07-05 13:13:38,977 - INFO - Verified facilities: 139
+2026-07-05 13:13:38,977 - INFO - Unverified facilities: 410
+2026-07-05 13:13:38,977 - INFO - Log saved to: logs/api_scraper_20260705_131320.log
+2026-07-05 13:13:39,196 - INFO - Exported 2635 jobs to jobs.csv
