@@ -1,0 +1,45 @@
+2026-07-07 14:10:27,183 - INFO - Starting API job scraper
+2026-07-07 14:10:27,184 - INFO - Loaded 853 master facilities
+2026-07-07 14:10:27,184 - INFO - Fetching jobs from API...
+2026-07-07 14:10:28,759 - INFO - Total jobs found: 500
+2026-07-07 14:10:28,828 - INFO - New job: Corrections Oversight Worker - West Tennessee State Penitentiary - 661951 [VERIFIED: West Tennessee State Penitentiary]
+2026-07-07 14:10:28,860 - INFO - New job: Corrections Food Service Worker - Westchester County D.O.C. - 663683 [UNVERIFIED: Westchester County D.O.C.]
+2026-07-07 14:10:28,890 - INFO - New job: Commissary Worker - Miami Dade Commissary - 663711 [UNVERIFIED: Miami Dade Commissary]
+2026-07-07 14:10:28,951 - INFO - New job: Corrections Oversight Worker - VOA Mansfield - 663727 [UNVERIFIED: VOA Mansfield]
+2026-07-07 14:10:28,985 - INFO - New job: Food Service Worker Lead - Madison Correctional Institution - 663729 [VERIFIED: Madison Correctional Institution]
+2026-07-07 14:10:28,986 - INFO - New job: Food Service Director - 663172 [No facility found]
+2026-07-07 14:10:28,986 - INFO - New job: Food Service Director - 663174 [No facility found]
+2026-07-07 14:10:29,040 - INFO - New job: Corrections Food Service Worker - North Central Regional Jail and Correctional Facility - 663801 [VERIFIED: Northeast Regional Correctional Facility]
+2026-07-07 14:10:29,073 - INFO - New job: Corrections Food Service Worker - Pruntytown Correctional Center - 663810 [VERIFIED: Pruntytown Correctional Center]
+2026-07-07 14:10:29,100 - INFO - New job: Corrections Oversight Worker - El Dorado Correctional - 663903 [VERIFIED: El Dorado Correctional Facility]
+2026-07-07 14:10:29,127 - INFO - New job: Corrections Oversight Worker - El Dorado Correctional - 663907 [VERIFIED: El Dorado Correctional Facility]
+2026-07-07 14:10:29,162 - INFO - New job: Corrections Oversight Worker - Trumbull Correctional Institution - 663930 [VERIFIED: Trumbull Correctional Institution]
+2026-07-07 14:10:29,162 - INFO - New job: Operations Finance Specialist - 663935 [No facility found]
+2026-07-07 14:10:29,201 - INFO - New job: Corrections Oversight Worker - Eastern Kentucky Correctional Complex - 663936 [VERIFIED: Eastern Kentucky Correctional Complex]
+2026-07-07 14:10:29,235 - INFO - New job: Warehouse Worker II - USG - NV WAREHOUSE - FE - 658230 [UNVERIFIED: USG - NV WAREHOUSE - FE]
+2026-07-07 14:10:39,814 - INFO - Added 15 new jobs
+2026-07-07 14:10:39,814 - INFO - Fetching descriptions for 15 new jobs...
+2026-07-07 14:10:41,034 - INFO - Updated description for 661951
+2026-07-07 14:10:42,769 - INFO - Updated description for 663683
+2026-07-07 14:10:44,606 - INFO - Updated description for 663711
+2026-07-07 14:10:46,583 - INFO - Updated description for 663727
+2026-07-07 14:10:48,568 - INFO - Updated description for 663729
+2026-07-07 14:10:50,421 - INFO - Updated description for 663172
+2026-07-07 14:10:52,103 - INFO - Updated description for 663174
+2026-07-07 14:10:54,278 - INFO - Updated description for 663801
+2026-07-07 14:10:56,305 - INFO - Updated description for 663810
+2026-07-07 14:10:58,432 - INFO - Updated description for 663903
+2026-07-07 14:11:00,962 - INFO - Updated description for 663907
+2026-07-07 14:11:03,036 - INFO - Updated description for 663930
+2026-07-07 14:11:05,590 - INFO - Updated description for 663935
+2026-07-07 14:11:08,262 - INFO - Updated description for 663936
+2026-07-07 14:11:11,007 - INFO - Updated description for 658230
+2026-07-07 14:11:11,517 - INFO - 
+=== SUMMARY ===
+2026-07-07 14:11:11,517 - INFO - Total jobs in database: 2651
+2026-07-07 14:11:11,517 - INFO - New jobs added: 15
+2026-07-07 14:11:11,517 - INFO - Descriptions updated: 15
+2026-07-07 14:11:11,517 - INFO - Verified facilities: 139
+2026-07-07 14:11:11,517 - INFO - Unverified facilities: 410
+2026-07-07 14:11:11,517 - INFO - Log saved to: logs/api_scraper_20260707_141027.log
+2026-07-07 14:11:11,740 - INFO - Exported 2651 jobs to jobs.csv
