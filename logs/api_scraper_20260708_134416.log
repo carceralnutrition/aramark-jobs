@@ -1,0 +1,39 @@
+2026-07-08 13:44:16,588 - INFO - Starting API job scraper
+2026-07-08 13:44:16,588 - INFO - Loaded 853 master facilities
+2026-07-08 13:44:16,588 - INFO - Fetching jobs from API...
+2026-07-08 13:44:20,102 - INFO - Total jobs found: 500
+2026-07-08 13:44:20,104 - INFO - New job: Food Service Manager - 658970 [No facility found]
+2026-07-08 13:44:20,104 - INFO - New job: Food Service Manager - 663697 [No facility found]
+2026-07-08 13:44:20,158 - INFO - New job: Maintenance Worker - Harris County Facilities - 664017 [UNVERIFIED: Harris County Facilities]
+2026-07-08 13:44:20,182 - INFO - New job: Corrections Oversight Worker - Osceola County - 664060 [UNVERIFIED: Osceola County]
+2026-07-08 13:44:20,214 - INFO - New job: Food Service Worker - Multnomah County-Sheriff - 664140 [UNVERIFIED: Multnomah County-Sheriff]
+2026-07-08 13:44:20,214 - INFO - New job: Food Service Manager - 664167 [No facility found]
+2026-07-08 13:44:20,258 - INFO - New job: Warehouse Worker II - USG - USCS - TX PICK & PACK LINE - 664219 [UNVERIFIED: USG - USCS - TX PICK & PACK LINE]
+2026-07-08 13:44:20,258 - INFO - New job: Food Service Director - 664315 [No facility found]
+2026-07-08 13:44:20,294 - INFO - New job: Inventory Control Supervisor - USG - OH WAREHOUSE - FE - 664344 [UNVERIFIED: USG - OH WAREHOUSE - FE]
+2026-07-08 13:44:20,328 - INFO - New job: Warehouse Worker III - USG - INVENTORY & AUDIT - 664359 [UNVERIFIED: USG - INVENTORY & AUDIT]
+2026-07-08 13:44:20,354 - INFO - New job: Corrections Oversight Worker - ASPC - Winslow - 664399 [UNVERIFIED: ASPC - Winslow]
+2026-07-08 13:44:20,376 - INFO - New job: Corrections Oversight Worker - Century - CI/WC - (106/167) - 664434 [UNVERIFIED: Century - CI/WC]
+2026-07-08 13:44:31,252 - INFO - Added 12 new jobs
+2026-07-08 13:44:31,252 - INFO - Fetching descriptions for 12 new jobs...
+2026-07-08 13:44:32,538 - INFO - Updated description for 658970
+2026-07-08 13:44:34,561 - INFO - Updated description for 663697
+2026-07-08 13:44:36,527 - INFO - Updated description for 664017
+2026-07-08 13:44:38,477 - INFO - Updated description for 664060
+2026-07-08 13:44:40,544 - INFO - Updated description for 664140
+2026-07-08 13:44:42,326 - INFO - Updated description for 664167
+2026-07-08 13:44:44,267 - INFO - Updated description for 664219
+2026-07-08 13:44:46,093 - INFO - Updated description for 664315
+2026-07-08 13:44:48,435 - INFO - Updated description for 664344
+2026-07-08 13:44:50,596 - INFO - Updated description for 664359
+2026-07-08 13:44:52,608 - INFO - Updated description for 664399
+2026-07-08 13:44:54,636 - INFO - Updated description for 664434
+2026-07-08 13:44:55,147 - INFO - 
+=== SUMMARY ===
+2026-07-08 13:44:55,147 - INFO - Total jobs in database: 2663
+2026-07-08 13:44:55,147 - INFO - New jobs added: 12
+2026-07-08 13:44:55,147 - INFO - Descriptions updated: 12
+2026-07-08 13:44:55,147 - INFO - Verified facilities: 139
+2026-07-08 13:44:55,147 - INFO - Unverified facilities: 411
+2026-07-08 13:44:55,147 - INFO - Log saved to: logs/api_scraper_20260708_134416.log
+2026-07-08 13:44:55,375 - INFO - Exported 2663 jobs to jobs.csv
