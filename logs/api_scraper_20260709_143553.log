@@ -1,0 +1,35 @@
+2026-07-09 14:35:53,058 - INFO - Starting API job scraper
+2026-07-09 14:35:53,058 - INFO - Loaded 853 master facilities
+2026-07-09 14:35:53,058 - INFO - Fetching jobs from API...
+2026-07-09 14:35:56,275 - INFO - Total jobs found: 500
+2026-07-09 14:35:56,338 - INFO - New job: Commissary Worker - Winnebago County Commissary (IL) - 664690 [UNVERIFIED: Winnebago County Commissary (IL)]
+2026-07-09 14:35:56,370 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 664723 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-09 14:35:56,407 - INFO - New job: Retail Sales Worker - Tom Green County Commissary - 664730 [UNVERIFIED: Tom Green County Commissary]
+2026-07-09 14:35:56,469 - INFO - New job: Corrections Food Service Worker - Edinburgh Correctional Facility - Edinburg Correctional Facility - 664471 [UNVERIFIED: Edinburgh Correctional Facility - Edinburg Correctional Facility]
+2026-07-09 14:35:56,496 - INFO - New job: Food Service Worker Lead - Ellsworth Correctional - 664500 [VERIFIED: Ellsworth Correctional Facility]
+2026-07-09 14:35:56,496 - INFO - New job: Food Service Manager - 664556 [No facility found]
+2026-07-09 14:35:56,496 - INFO - New job: Food Service Director - 664557 [No facility found]
+2026-07-09 14:35:56,541 - INFO - New job: Cook - Harris Center for Mental Health - 419 - 664563 [UNVERIFIED: Harris Center for Mental Health - 419]
+2026-07-09 14:35:56,604 - INFO - New job: Food Service Worker - Henrico County Jail - East - Henrico County - Jail East - 664602 [UNVERIFIED: Henrico County Jail - East - Henrico County - Jail East]
+2026-07-09 14:35:56,644 - INFO - New job: Cook - Westchester County D.O.C. - 664634 [UNVERIFIED: Westchester County D.O.C.]
+2026-07-09 14:36:08,325 - INFO - Added 10 new jobs
+2026-07-09 14:36:08,325 - INFO - Fetching descriptions for 10 new jobs...
+2026-07-09 14:36:09,464 - INFO - Updated description for 664690
+2026-07-09 14:36:11,207 - INFO - Updated description for 664723
+2026-07-09 14:36:12,823 - INFO - Updated description for 664730
+2026-07-09 14:36:14,484 - INFO - Updated description for 664471
+2026-07-09 14:36:16,171 - INFO - Updated description for 664500
+2026-07-09 14:36:17,808 - INFO - Updated description for 664556
+2026-07-09 14:36:19,367 - INFO - Updated description for 664557
+2026-07-09 14:36:21,118 - INFO - Updated description for 664563
+2026-07-09 14:36:22,713 - INFO - Updated description for 664602
+2026-07-09 14:36:24,416 - INFO - Updated description for 664634
+2026-07-09 14:36:24,925 - INFO - 
+=== SUMMARY ===
+2026-07-09 14:36:24,925 - INFO - Total jobs in database: 2673
+2026-07-09 14:36:24,925 - INFO - New jobs added: 10
+2026-07-09 14:36:24,925 - INFO - Descriptions updated: 10
+2026-07-09 14:36:24,925 - INFO - Verified facilities: 139
+2026-07-09 14:36:24,925 - INFO - Unverified facilities: 413
+2026-07-09 14:36:24,925 - INFO - Log saved to: logs/api_scraper_20260709_143553.log
+2026-07-09 14:36:25,147 - INFO - Exported 2673 jobs to jobs.csv
