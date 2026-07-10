@@ -1,0 +1,25 @@
+2026-07-10 14:03:19,046 - INFO - Starting API job scraper
+2026-07-10 14:03:19,046 - INFO - Loaded 853 master facilities
+2026-07-10 14:03:19,047 - INFO - Fetching jobs from API...
+2026-07-10 14:03:23,942 - INFO - Total jobs found: 500
+2026-07-10 14:03:23,984 - INFO - New job: Field Sales Director II - West Region - 664371 [VERIFIED: Western Reception]
+2026-07-10 14:03:24,009 - INFO - New job: Food Service Worker Lead - Wichita City Jail - 664436 [UNVERIFIED: Wichita City Jail]
+2026-07-10 14:03:24,032 - INFO - New job: Field Sales Director II - East Region - 664643 [VERIFIED: Eastern Reception]
+2026-07-10 14:03:24,071 - INFO - New job: Electrician I - Mecklenburg County Facilities - 664987 [UNVERIFIED: Mecklenburg County Facilities]
+2026-07-10 14:03:24,119 - INFO - New job: Warehouse Worker - Milwaukee House of Corrections Commissary - 665041 [UNVERIFIED: Milwaukee House of Corrections Commissary]
+2026-07-10 14:03:35,493 - INFO - Added 5 new jobs
+2026-07-10 14:03:35,493 - INFO - Fetching descriptions for 5 new jobs...
+2026-07-10 14:03:37,077 - INFO - Updated description for 664371
+2026-07-10 14:03:38,915 - INFO - Updated description for 664436
+2026-07-10 14:03:40,846 - INFO - Updated description for 664643
+2026-07-10 14:03:42,863 - INFO - Updated description for 664987
+2026-07-10 14:03:44,759 - INFO - Updated description for 665041
+2026-07-10 14:03:45,268 - INFO - 
+=== SUMMARY ===
+2026-07-10 14:03:45,269 - INFO - Total jobs in database: 2678
+2026-07-10 14:03:45,269 - INFO - New jobs added: 5
+2026-07-10 14:03:45,269 - INFO - Descriptions updated: 5
+2026-07-10 14:03:45,269 - INFO - Verified facilities: 140
+2026-07-10 14:03:45,269 - INFO - Unverified facilities: 413
+2026-07-10 14:03:45,269 - INFO - Log saved to: logs/api_scraper_20260710_140319.log
+2026-07-10 14:03:45,494 - INFO - Exported 2678 jobs to jobs.csv
