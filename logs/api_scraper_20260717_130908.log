@@ -1,0 +1,39 @@
+2026-07-17 13:09:08,370 - INFO - Starting API job scraper
+2026-07-17 13:09:08,371 - INFO - Loaded 853 master facilities
+2026-07-17 13:09:08,371 - INFO - Fetching jobs from API...
+2026-07-17 13:09:10,663 - INFO - Total jobs found: 500
+2026-07-17 13:09:10,665 - INFO - New job: Food Service Worker - 666548 [No facility found]
+2026-07-17 13:09:10,706 - INFO - New job: Corrections Oversight Worker - Largo Road Prison - (552) - 666550 [UNVERIFIED: Largo Road Prison]
+2026-07-17 13:09:10,762 - INFO - New job: Driver I - South Dakota State Penitentiary (Sioux Falls) - 666559 [VERIFIED: South Dakota State Penitentiary]
+2026-07-17 13:09:10,817 - INFO - New job: Food Service Supervisor - South Dakota State Penitentiary (Sioux Falls) - 666560 [VERIFIED: South Dakota State Penitentiary]
+2026-07-17 13:09:10,880 - INFO - New job: Kitchen Supervisor - GA Metro Department of Corrections - Metro - GA DOC - 666563 [UNVERIFIED: GA Metro Department of Corrections - Metro - GA DOC]
+2026-07-17 13:09:10,880 - INFO - New job: Food Service Director - 666054 [No facility found]
+2026-07-17 13:09:10,907 - INFO - New job: Corrections Oversight Worker - Clark County Jail - 666723 [UNVERIFIED: Clark County Jail]
+2026-07-17 13:09:10,953 - INFO - New job: Commissary Worker - Shawnee County Department of Corrections - 666458 [UNVERIFIED: Shawnee County Department of Corrections]
+2026-07-17 13:09:10,953 - INFO - New job: Food Service Director - 665123 [No facility found]
+2026-07-17 13:09:10,990 - INFO - New job: Food Service Manager - OKDOC - Mabel Bassett - 656793 [UNVERIFIED: OKDOC - Mabel Bassett]
+2026-07-17 13:09:11,020 - INFO - New job: Corrections Food Service Worker - Blair County Prison - 666503 [UNVERIFIED: Blair County Prison]
+2026-07-17 13:09:11,052 - INFO - New job: Commissary Worker - Kane County Commissary - 666528 [UNVERIFIED: Kane County Commissary]
+2026-07-17 13:09:23,078 - INFO - Added 12 new jobs
+2026-07-17 13:09:23,078 - INFO - Fetching descriptions for 12 new jobs...
+2026-07-17 13:09:24,321 - INFO - Updated description for 666548
+2026-07-17 13:09:25,967 - INFO - Updated description for 666550
+2026-07-17 13:09:27,861 - INFO - Updated description for 666559
+2026-07-17 13:09:29,415 - INFO - Updated description for 666560
+2026-07-17 13:09:31,051 - INFO - Updated description for 666563
+2026-07-17 13:09:32,696 - INFO - Updated description for 666054
+2026-07-17 13:09:34,628 - INFO - Updated description for 666723
+2026-07-17 13:09:36,204 - INFO - Updated description for 666458
+2026-07-17 13:09:37,859 - INFO - Updated description for 665123
+2026-07-17 13:09:39,561 - INFO - Updated description for 656793
+2026-07-17 13:09:41,114 - INFO - Updated description for 666503
+2026-07-17 13:09:42,867 - INFO - Updated description for 666528
+2026-07-17 13:09:43,376 - INFO - 
+=== SUMMARY ===
+2026-07-17 13:09:43,376 - INFO - Total jobs in database: 2735
+2026-07-17 13:09:43,376 - INFO - New jobs added: 12
+2026-07-17 13:09:43,376 - INFO - Descriptions updated: 12
+2026-07-17 13:09:43,376 - INFO - Verified facilities: 140
+2026-07-17 13:09:43,376 - INFO - Unverified facilities: 417
+2026-07-17 13:09:43,376 - INFO - Log saved to: logs/api_scraper_20260717_130908.log
+2026-07-17 13:09:43,601 - INFO - Exported 2735 jobs to jobs.csv
