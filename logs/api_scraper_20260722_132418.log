@@ -1,0 +1,49 @@
+2026-07-22 13:24:18,234 - INFO - Starting API job scraper
+2026-07-22 13:24:18,235 - INFO - Loaded 853 master facilities
+2026-07-22 13:24:18,235 - INFO - Fetching jobs from API...
+2026-07-22 13:24:21,218 - INFO - Total jobs found: 100
+2026-07-22 13:24:21,219 - INFO - New job: Food Service Manager - 666764 [No facility found]
+2026-07-22 13:24:21,265 - INFO - New job: Food Service Worker Lead - Tennessee Corrections Academy - 667380 [UNVERIFIED: Tennessee Corrections Academy]
+2026-07-22 13:24:21,299 - INFO - New job: Corrections Oversight Worker - Franklin Medical Center - 667387 [VERIFIED: Franklin Medical Center]
+2026-07-22 13:24:21,299 - INFO - New job: Food Service Manager - 665976 [No facility found]
+2026-07-22 13:24:21,325 - INFO - New job: Food Service Worker - Alvis 180 - Columbus - 667415 [UNVERIFIED: Alvis 180 - Columbus]
+2026-07-22 13:24:21,388 - INFO - New job: Corrections Oversight Worker - Women's Eastern Reception, Diagnostic and Correctional Center - 667495 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-07-22 13:24:21,456 - INFO - New job: Food Service Worker Lead - Women's Eastern Reception, Diagnostic and Correctional Center - 667498 [UNVERIFIED: Women's Eastern Reception, Diagnostic and Correctional Center]
+2026-07-22 13:24:21,479 - INFO - New job: Corrections Oversight Worker - Brown County - 665640 [UNVERIFIED: Brown County]
+2026-07-22 13:24:21,479 - INFO - New job: Food Service Manager - 667583 [No facility found]
+2026-07-22 13:24:21,479 - INFO - New job: Food Service Director - 667613 [No facility found]
+2026-07-22 13:24:21,518 - INFO - New job: Commissary Worker - Alameda County Commissary - 667621 [UNVERIFIED: Alameda County Commissary]
+2026-07-22 13:24:21,552 - INFO - New job: Food Service Supervisor - Hamilton County Jail (TN) - 667632 [UNVERIFIED: Hamilton County Jail (TN)]
+2026-07-22 13:24:21,552 - INFO - New job: Food Service Director - 666708 [No facility found]
+2026-07-22 13:24:21,553 - INFO - New job: Food Service Director - 666710 [No facility found]
+2026-07-22 13:24:21,553 - INFO - New job: Food Service Director - 666711 [No facility found]
+2026-07-22 13:24:21,553 - INFO - New job: Food Service Director - 666712 [No facility found]
+2026-07-22 13:24:21,590 - INFO - New job: Commissary Supervisor - Santa Clara County Commissary - 657531 [UNVERIFIED: Santa Clara County Commissary]
+2026-07-22 13:24:23,342 - INFO - Added 17 new jobs
+2026-07-22 13:24:23,342 - INFO - Fetching descriptions for 17 new jobs...
+2026-07-22 13:24:24,726 - INFO - Updated description for 666764
+2026-07-22 13:24:26,499 - INFO - Updated description for 667380
+2026-07-22 13:24:28,298 - INFO - Updated description for 667387
+2026-07-22 13:24:30,000 - INFO - Updated description for 665976
+2026-07-22 13:24:31,791 - INFO - Updated description for 667415
+2026-07-22 13:24:33,552 - INFO - Updated description for 667495
+2026-07-22 13:24:35,252 - INFO - Updated description for 667498
+2026-07-22 13:24:36,958 - INFO - Updated description for 665640
+2026-07-22 13:24:38,865 - INFO - Updated description for 667583
+2026-07-22 13:24:40,702 - INFO - Updated description for 667613
+2026-07-22 13:24:42,528 - INFO - Updated description for 667621
+2026-07-22 13:24:44,523 - INFO - Updated description for 667632
+2026-07-22 13:24:46,400 - INFO - Updated description for 666708
+2026-07-22 13:24:48,157 - INFO - Updated description for 666710
+2026-07-22 13:24:49,859 - INFO - Updated description for 666711
+2026-07-22 13:24:51,663 - INFO - Updated description for 666712
+2026-07-22 13:24:53,421 - INFO - Updated description for 657531
+2026-07-22 13:24:53,932 - INFO - 
+=== SUMMARY ===
+2026-07-22 13:24:53,933 - INFO - Total jobs in database: 2793
+2026-07-22 13:24:53,933 - INFO - New jobs added: 17
+2026-07-22 13:24:53,933 - INFO - Descriptions updated: 17
+2026-07-22 13:24:53,933 - INFO - Verified facilities: 140
+2026-07-22 13:24:53,933 - INFO - Unverified facilities: 418
+2026-07-22 13:24:53,933 - INFO - Log saved to: logs/api_scraper_20260722_132418.log
+2026-07-22 13:24:54,168 - INFO - Exported 2793 jobs to jobs.csv
