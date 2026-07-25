@@ -1,0 +1,35 @@
+2026-07-25 13:05:01,210 - INFO - Starting API job scraper
+2026-07-25 13:05:01,211 - INFO - Loaded 853 master facilities
+2026-07-25 13:05:01,211 - INFO - Fetching jobs from API...
+2026-07-25 13:05:03,451 - INFO - Total jobs found: 100
+2026-07-25 13:05:03,453 - INFO - New job: Food Service Manager - 658919 [No facility found]
+2026-07-25 13:05:03,505 - INFO - New job: Food Service Worker - Jackson Oregon Sheriff's - 660375 [UNVERIFIED: Jackson Oregon Sheriff's]
+2026-07-25 13:05:03,505 - INFO - New job: Food Service Director - 667377 [No facility found]
+2026-07-25 13:05:03,542 - INFO - New job: Commissary Supervisor - USG - USCS - KENTUCKY - 667468 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-25 13:05:03,542 - INFO - New job: Food Service Director - 667529 [No facility found]
+2026-07-25 13:05:03,542 - INFO - New job: Food Service Director - 668245 [No facility found]
+2026-07-25 13:05:03,602 - INFO - New job: Food Service Worker - Atlantic County Justice Facility - 668313 [UNVERIFIED: Atlantic County Justice Facility]
+2026-07-25 13:05:03,623 - INFO - New job: General Manager - Facilities - 668320 [UNVERIFIED: Facilities]
+2026-07-25 13:05:03,651 - INFO - New job: Corrections Oversight Worker - Dodge County Jail - 668360 [UNVERIFIED: Dodge County Jail]
+2026-07-25 13:05:03,684 - INFO - New job: Food Service Supervisor - Madera County D.O.C. - 668497 [UNVERIFIED: Madera County D.O.C.]
+2026-07-25 13:05:05,719 - INFO - Added 10 new jobs
+2026-07-25 13:05:05,720 - INFO - Fetching descriptions for 10 new jobs...
+2026-07-25 13:05:06,938 - INFO - Updated description for 658919
+2026-07-25 13:05:08,683 - INFO - Updated description for 660375
+2026-07-25 13:05:10,387 - INFO - Updated description for 667377
+2026-07-25 13:05:12,137 - INFO - Updated description for 667468
+2026-07-25 13:05:13,746 - INFO - Updated description for 667529
+2026-07-25 13:05:15,362 - INFO - Updated description for 668245
+2026-07-25 13:05:16,989 - INFO - Updated description for 668313
+2026-07-25 13:05:18,629 - INFO - Updated description for 668320
+2026-07-25 13:05:20,220 - INFO - Updated description for 668360
+2026-07-25 13:05:21,825 - INFO - Updated description for 668497
+2026-07-25 13:05:22,339 - INFO - 
+=== SUMMARY ===
+2026-07-25 13:05:22,339 - INFO - Total jobs in database: 2821
+2026-07-25 13:05:22,339 - INFO - New jobs added: 10
+2026-07-25 13:05:22,339 - INFO - Descriptions updated: 10
+2026-07-25 13:05:22,339 - INFO - Verified facilities: 140
+2026-07-25 13:05:22,339 - INFO - Unverified facilities: 420
+2026-07-25 13:05:22,339 - INFO - Log saved to: logs/api_scraper_20260725_130501.log
+2026-07-25 13:05:22,583 - INFO - Exported 2821 jobs to jobs.csv
