@@ -1,0 +1,17 @@
+2026-07-27 14:13:06,444 - INFO - Starting API job scraper
+2026-07-27 14:13:06,444 - INFO - Loaded 853 master facilities
+2026-07-27 14:13:06,444 - INFO - Fetching jobs from API...
+2026-07-27 14:13:10,165 - INFO - Total jobs found: 100
+2026-07-27 14:13:10,242 - INFO - New job: Corrections Oversight Worker - South Central Regional Jail and Correctional Facility - 668523 [VERIFIED: South Central Correctional Facility]
+2026-07-27 14:13:12,300 - INFO - Added 1 new jobs
+2026-07-27 14:13:12,300 - INFO - Fetching descriptions for 1 new jobs...
+2026-07-27 14:13:13,486 - INFO - Updated description for 668523
+2026-07-27 14:13:13,995 - INFO - 
+=== SUMMARY ===
+2026-07-27 14:13:13,995 - INFO - Total jobs in database: 2824
+2026-07-27 14:13:13,995 - INFO - New jobs added: 1
+2026-07-27 14:13:13,995 - INFO - Descriptions updated: 1
+2026-07-27 14:13:13,995 - INFO - Verified facilities: 140
+2026-07-27 14:13:13,996 - INFO - Unverified facilities: 420
+2026-07-27 14:13:13,996 - INFO - Log saved to: logs/api_scraper_20260727_141306.log
+2026-07-27 14:13:14,228 - INFO - Exported 2824 jobs to jobs.csv
