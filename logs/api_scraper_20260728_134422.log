@@ -1,0 +1,47 @@
+2026-07-28 13:44:22,340 - INFO - Starting API job scraper
+2026-07-28 13:44:22,341 - INFO - Loaded 853 master facilities
+2026-07-28 13:44:22,341 - INFO - Fetching jobs from API...
+2026-07-28 13:44:24,737 - INFO - Total jobs found: 100
+2026-07-28 13:44:24,787 - INFO - New job: Food Service Worker - Tom Green County - 667321 [UNVERIFIED: Tom Green County]
+2026-07-28 13:44:24,812 - INFO - New job: Corrections Oversight Worker - Tallahassee - CRC - (168) - 668750 [UNVERIFIED: Tallahassee - CRC]
+2026-07-28 13:44:24,852 - INFO - New job: Food Service Worker Lead - Mansfield Correctional Institution - 668759 [VERIFIED: Mansfield Correctional Institution]
+2026-07-28 13:44:24,895 - INFO - New job: Corrections Oversight Worker - Clinton County Correctional Facility - PA - 668766 [VERIFIED: Bent County Correctional Facility]
+2026-07-28 13:44:24,914 - INFO - New job: Shift Lead - Kent County - 668813 [UNVERIFIED: Kent County]
+2026-07-28 13:44:24,963 - INFO - New job: Corrections Food Service Worker - Jackson County Detention Center (MO) - 668837 [UNVERIFIED: Jackson County Detention Center (MO)]
+2026-07-28 13:44:24,992 - INFO - New job: Corrections Oversight Worker - San Joaquin County - 667904 [UNVERIFIED: San Joaquin County]
+2026-07-28 13:44:24,993 - INFO - New job: General Manager I - 668505 [No facility found]
+2026-07-28 13:44:25,025 - INFO - New job: Corrections Oversight Worker - Cumberland County Jail - 668578 [UNVERIFIED: Cumberland County Jail]
+2026-07-28 13:44:25,052 - INFO - New job: Corrections Oversight Worker - Lancaster - CI/WC - (281/280) - 668610 [UNVERIFIED: Lancaster - CI/WC]
+2026-07-28 13:44:25,052 - INFO - New job: Food Service Manager - 668617 [No facility found]
+2026-07-28 13:44:25,089 - INFO - New job: Cook Supervisor - Santa Rosa - CI/Annex/WC - (119/135/127) - 668636 [UNVERIFIED: Santa Rosa - CI/Annex/WC]
+2026-07-28 13:44:25,090 - INFO - New job: Food Service Manager - 668645 [No facility found]
+2026-07-28 13:44:25,129 - INFO - New job: Driver I - Hillsborough County Jail Food - 668683 [UNVERIFIED: Hillsborough County Jail Food]
+2026-07-28 13:44:25,158 - INFO - New job: Food Service Supervisor - El Dorado Correctional - 668703 [VERIFIED: El Dorado Correctional Facility]
+2026-07-28 13:44:25,199 - INFO - New job: Corrections Food Service Worker - Chillicothe Correctional Institution - 668722 [VERIFIED: Chillicothe Correctional Institution]
+2026-07-28 13:44:26,894 - INFO - Added 16 new jobs
+2026-07-28 13:44:26,894 - INFO - Fetching descriptions for 16 new jobs...
+2026-07-28 13:44:28,603 - INFO - Updated description for 667321
+2026-07-28 13:44:30,818 - INFO - Updated description for 668750
+2026-07-28 13:44:33,328 - INFO - Updated description for 668759
+2026-07-28 13:44:35,295 - INFO - Updated description for 668766
+2026-07-28 13:44:37,438 - INFO - Updated description for 668813
+2026-07-28 13:44:39,636 - INFO - Updated description for 668837
+2026-07-28 13:44:41,500 - INFO - Updated description for 667904
+2026-07-28 13:44:43,401 - INFO - Updated description for 668505
+2026-07-28 13:44:45,350 - INFO - Updated description for 668578
+2026-07-28 13:44:47,625 - INFO - Updated description for 668610
+2026-07-28 13:44:50,070 - INFO - Updated description for 668617
+2026-07-28 13:44:52,634 - INFO - Updated description for 668636
+2026-07-28 13:44:54,969 - INFO - Updated description for 668645
+2026-07-28 13:44:56,848 - INFO - Updated description for 668683
+2026-07-28 13:44:58,682 - INFO - Updated description for 668703
+2026-07-28 13:45:00,533 - INFO - Updated description for 668722
+2026-07-28 13:45:01,042 - INFO - 
+=== SUMMARY ===
+2026-07-28 13:45:01,043 - INFO - Total jobs in database: 2840
+2026-07-28 13:45:01,043 - INFO - New jobs added: 16
+2026-07-28 13:45:01,043 - INFO - Descriptions updated: 16
+2026-07-28 13:45:01,043 - INFO - Verified facilities: 140
+2026-07-28 13:45:01,043 - INFO - Unverified facilities: 420
+2026-07-28 13:45:01,043 - INFO - Log saved to: logs/api_scraper_20260728_134422.log
+2026-07-28 13:45:01,278 - INFO - Exported 2840 jobs to jobs.csv
