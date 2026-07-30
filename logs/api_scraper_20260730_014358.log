@@ -1,0 +1,43 @@
+2026-07-30 01:43:58,888 - INFO - Starting API job scraper
+2026-07-30 01:43:58,888 - INFO - Loaded 853 master facilities
+2026-07-30 01:43:58,888 - INFO - Fetching jobs from API...
+2026-07-30 01:44:02,428 - INFO - Total jobs found: 100
+2026-07-30 01:44:02,429 - INFO - New job: Resident General Manager - 668430 [No facility found]
+2026-07-30 01:44:02,475 - INFO - New job: Corrections Oversight Worker - Northeast Correctional Complex - 668870 [VERIFIED: Northeast Correctional Complex]
+2026-07-30 01:44:02,504 - INFO - New job: Warehouse Worker II - USG - OH WAREHOUSE - UD - 668921 [UNVERIFIED: USG - OH WAREHOUSE - UD]
+2026-07-30 01:44:02,531 - INFO - New job: Commissary Delivery Rep -USG - USCS - MESA VERDE - 668925 [UNVERIFIED: USCS - MESA VERDE]
+2026-07-30 01:44:02,531 - INFO - New job: Food Service Manager - 668944 [No facility found]
+2026-07-30 01:44:02,531 - INFO - New job: Facilities Operations Supervisor-Harris County Facilities - 669013 [No facility found]
+2026-07-30 01:44:02,567 - INFO - New job: Corrections Oversight Worker - Winnebago County Jail WI - 669038 [UNVERIFIED: Winnebago County Jail WI]
+2026-07-30 01:44:02,567 - INFO - New job: Customer Service Coordinator I - 669051 [No facility found]
+2026-07-30 01:44:02,593 - INFO - New job: Corrections Oversight Worker - Delaware County (PA) Jail - 669064 [UNVERIFIED: Delaware County (PA) Jail]
+2026-07-30 01:44:02,619 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 669066 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-30 01:44:02,643 - INFO - New job: Commissary Worker - USG - USCS - KENTUCKY - 669082 [UNVERIFIED: USG - USCS - KENTUCKY]
+2026-07-30 01:44:02,662 - INFO - New job: Food Service Worker Lead - Topeka Correctional - 669090 [UNVERIFIED: Topeka Correctional]
+2026-07-30 01:44:02,698 - INFO - New job: Food Service Worker Lead - Northeast Reintegration Center - 669096 [VERIFIED: Northeast Reintegration Center]
+2026-07-30 01:44:02,724 - INFO - New job: Food Service Worker - Jackson Oregon Sheriff's - 669119 [UNVERIFIED: Jackson Oregon Sheriff's]
+2026-07-30 01:44:04,372 - INFO - Added 14 new jobs
+2026-07-30 01:44:04,372 - INFO - Fetching descriptions for 14 new jobs...
+2026-07-30 01:44:05,540 - INFO - Updated description for 668430
+2026-07-30 01:44:07,324 - INFO - Updated description for 668870
+2026-07-30 01:44:09,477 - INFO - Updated description for 668921
+2026-07-30 01:44:11,617 - INFO - Updated description for 668925
+2026-07-30 01:44:13,679 - INFO - Updated description for 668944
+2026-07-30 01:44:15,792 - INFO - Updated description for 669013
+2026-07-30 01:44:17,930 - INFO - Updated description for 669038
+2026-07-30 01:44:20,074 - INFO - Updated description for 669051
+2026-07-30 01:44:22,017 - INFO - Updated description for 669064
+2026-07-30 01:44:23,909 - INFO - Updated description for 669066
+2026-07-30 01:44:25,727 - INFO - Updated description for 669082
+2026-07-30 01:44:27,693 - INFO - Updated description for 669090
+2026-07-30 01:44:29,319 - INFO - Updated description for 669096
+2026-07-30 01:44:30,996 - INFO - Updated description for 669119
+2026-07-30 01:44:31,506 - INFO - 
+=== SUMMARY ===
+2026-07-30 01:44:31,506 - INFO - Total jobs in database: 2854
+2026-07-30 01:44:31,506 - INFO - New jobs added: 14
+2026-07-30 01:44:31,506 - INFO - Descriptions updated: 14
+2026-07-30 01:44:31,506 - INFO - Verified facilities: 141
+2026-07-30 01:44:31,506 - INFO - Unverified facilities: 420
+2026-07-30 01:44:31,506 - INFO - Log saved to: logs/api_scraper_20260730_014358.log
+2026-07-30 01:44:31,709 - INFO - Exported 2854 jobs to jobs.csv
