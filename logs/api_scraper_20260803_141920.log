@@ -1,0 +1,21 @@
+2026-08-03 14:19:20,358 - INFO - Starting API job scraper
+2026-08-03 14:19:20,358 - INFO - Loaded 853 master facilities
+2026-08-03 14:19:20,358 - INFO - Fetching jobs from API...
+2026-08-03 14:19:26,010 - INFO - Total jobs found: 100
+2026-08-03 14:19:26,060 - INFO - New job: Corrections Oversight Worker - Hillsborough County Jail Food - 668668 [UNVERIFIED: Hillsborough County Jail Food]
+2026-08-03 14:19:26,098 - INFO - New job: Food Service Worker Lead - Hillsborough County Jail Food - 668713 [UNVERIFIED: Hillsborough County Jail Food]
+2026-08-03 14:19:26,135 - INFO - New job: Corrections Oversight Worker - Kentucky State Reformatory - 669976 [VERIFIED: Kentucky State Reformatory]
+2026-08-03 14:19:28,592 - INFO - Added 3 new jobs
+2026-08-03 14:19:28,592 - INFO - Fetching descriptions for 3 new jobs...
+2026-08-03 14:19:30,177 - INFO - Updated description for 668668
+2026-08-03 14:19:32,254 - INFO - Updated description for 668713
+2026-08-03 14:19:34,459 - INFO - Updated description for 669976
+2026-08-03 14:19:35,718 - INFO - 
+=== SUMMARY ===
+2026-08-03 14:19:35,718 - INFO - Total jobs in database: 2894
+2026-08-03 14:19:35,718 - INFO - New jobs added: 3
+2026-08-03 14:19:35,718 - INFO - Descriptions updated: 3
+2026-08-03 14:19:35,718 - INFO - Verified facilities: 141
+2026-08-03 14:19:35,718 - INFO - Unverified facilities: 421
+2026-08-03 14:19:35,718 - INFO - Log saved to: logs/api_scraper_20260803_141920.log
+2026-08-03 14:19:35,963 - INFO - Exported 2894 jobs to jobs.csv
