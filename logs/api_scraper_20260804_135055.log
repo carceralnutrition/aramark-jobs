@@ -1,0 +1,41 @@
+2026-08-04 13:50:55,460 - INFO - Starting API job scraper
+2026-08-04 13:50:55,461 - INFO - Loaded 853 master facilities
+2026-08-04 13:50:55,461 - INFO - Fetching jobs from API...
+2026-08-04 13:50:56,912 - INFO - Total jobs found: 100
+2026-08-04 13:50:56,971 - INFO - New job: Food Service Supervisor - Rapid City Community Work Center - 670061 [VERIFIED: Rapid City Minimum Center]
+2026-08-04 13:50:57,021 - INFO - New job: Corrections Oversight Worker - Volunteers of America - Indiana - 670094 [UNVERIFIED: Volunteers of America - Indiana]
+2026-08-04 13:50:57,056 - INFO - New job: Administrative Support Worker - Marion Correctional Institution - 670108 [VERIFIED: Marion Correctional Institution]
+2026-08-04 13:50:57,092 - INFO - New job: Food Service Worker Lead - Marion Correctional Institution - 670117 [VERIFIED: Marion Correctional Institution]
+2026-08-04 13:50:57,119 - INFO - New job: Corrections Oversight Worker - St. Mary's County - 670149 [UNVERIFIED: St. Mary's County]
+2026-08-04 13:50:57,175 - INFO - New job: Cook - Baltimore County Department of Corrections - 670160 [UNVERIFIED: Baltimore County Department of Corrections]
+2026-08-04 13:50:57,177 - INFO - New job: Food Service Manager - 670199 [No facility found]
+2026-08-04 13:50:57,206 - INFO - New job: Cook - Taylor County Jail - 670217 [UNVERIFIED: Taylor County Jail]
+2026-08-04 13:50:57,239 - INFO - New job: Commissary Supervisor - Miami Dade Commissary - 670235 [UNVERIFIED: Miami Dade Commissary]
+2026-08-04 13:50:57,276 - INFO - New job: Corrections Oversight Worker - Parkersburg Correctional Center - 670010 [VERIFIED: Martinsburg Correctional Center]
+2026-08-04 13:50:57,311 - INFO - New job: Corrections Oversight Worker - Northwest Correctional Complex - 670024 [VERIFIED: Northwest Correctional Complex]
+2026-08-04 13:50:57,312 - INFO - New job: Food Service Director - 670028 [No facility found]
+2026-08-04 13:50:57,338 - INFO - New job: Food Service Worker - Pinal County Jail - 670034 [UNVERIFIED: Pinal County Jail]
+2026-08-04 13:50:59,852 - INFO - Added 13 new jobs
+2026-08-04 13:50:59,852 - INFO - Fetching descriptions for 13 new jobs...
+2026-08-04 13:51:01,195 - INFO - Updated description for 670061
+2026-08-04 13:51:03,040 - INFO - Updated description for 670094
+2026-08-04 13:51:04,724 - INFO - Updated description for 670108
+2026-08-04 13:51:06,494 - INFO - Updated description for 670117
+2026-08-04 13:51:08,233 - INFO - Updated description for 670149
+2026-08-04 13:51:09,974 - INFO - Updated description for 670160
+2026-08-04 13:51:12,038 - INFO - Updated description for 670199
+2026-08-04 13:51:13,638 - INFO - Updated description for 670217
+2026-08-04 13:51:15,314 - INFO - Updated description for 670235
+2026-08-04 13:51:17,061 - INFO - Updated description for 670010
+2026-08-04 13:51:18,788 - INFO - Updated description for 670024
+2026-08-04 13:51:20,637 - INFO - Updated description for 670028
+2026-08-04 13:51:22,337 - INFO - Updated description for 670034
+2026-08-04 13:51:22,846 - INFO - 
+=== SUMMARY ===
+2026-08-04 13:51:22,846 - INFO - Total jobs in database: 2907
+2026-08-04 13:51:22,846 - INFO - New jobs added: 13
+2026-08-04 13:51:22,846 - INFO - Descriptions updated: 13
+2026-08-04 13:51:22,846 - INFO - Verified facilities: 142
+2026-08-04 13:51:22,846 - INFO - Unverified facilities: 421
+2026-08-04 13:51:22,847 - INFO - Log saved to: logs/api_scraper_20260804_135055.log
+2026-08-04 13:51:23,087 - INFO - Exported 2907 jobs to jobs.csv
