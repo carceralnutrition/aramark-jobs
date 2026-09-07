@@ -1,0 +1,4 @@
+2026-09-07 16:56:10,696 - INFO - Starting API job scraper
+2026-09-07 16:56:10,697 - INFO - Loaded 853 master facilities
+2026-09-07 16:56:10,697 - INFO - Fetching jobs from API...
+2026-09-07 16:56:10,979 - ERROR - API request failed with status 403
